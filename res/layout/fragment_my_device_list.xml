@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:background="@color/ck_f2f4f7" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/title_bar" android:layout_width="fill_parent" android:layout_height="52.0dip" app:layout_constraintTop_toTopOf="parent">
+        <androidx.appcompat.widget.AppCompatImageView android:id="@id/back" android:padding="18.0dip" android:layout_width="52.0dip" android:layout_height="52.0dip" android:src="@drawable/back" />
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="18.0sp" android:textStyle="bold" android:textColor="@color/ck_101828" android:gravity="center" android:id="@id/title" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/mine_MyDevices" android:layout_weight="1.0" />
+        <View android:id="@id/refresh" android:padding="16.0dip" android:layout_width="52.0dip" android:layout_height="52.0dip" />
+    </LinearLayout>
+    <androidx.recyclerview.widget.RecyclerView android:id="@id/recyclerView" android:background="@color/ck_f2f4f7" android:paddingTop="16.0dip" android:paddingBottom="16.0dip" android:layout_width="0.0dip" android:layout_height="0.0dip" app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/title_bar" />
+    <androidx.appcompat.widget.AppCompatImageView android:id="@id/empty_icon" android:layout_width="200.0dip" android:layout_height="125.0dip" android:layout_marginBottom="164.0dip" android:src="@drawable/mydevicelist_empty" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <androidx.appcompat.widget.AppCompatTextView android:textSize="16.0sp" android:textColor="@color/ck_101828_70" android:gravity="center" android:id="@id/empty_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:text="@string/No_devices" app:layout_constraintTop_toBottomOf="@id/empty_icon" />
+</androidx.constraintlayout.widget.ConstraintLayout>

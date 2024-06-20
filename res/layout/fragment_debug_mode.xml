@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat android:orientation="vertical" android:background="@color/ck_f9fafb" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/title_bar" android:layout_width="fill_parent" android:layout_height="52.0dip" app:layout_constraintTop_toTopOf="parent">
+        <androidx.appcompat.widget.AppCompatImageView android:id="@id/back" android:padding="18.0dip" android:layout_width="52.0dip" android:layout_height="52.0dip" android:src="@drawable/back" />
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="18.0sp" android:textStyle="bold" android:textColor="@color/ck_101828" android:gravity="center" android:id="@id/title" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="开发者选项" android:layout_weight="1.0" />
+        <View android:id="@id/delete" android:layout_width="52.0dip" android:layout_height="52.0dip" />
+    </LinearLayout>
+    <androidx.appcompat.widget.AppCompatTextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="降噪量" />
+    <EditText android:id="@id/noise_floor_num" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="0" android:inputType="number" />
+    <androidx.appcompat.widget.AppCompatTextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="增益" />
+    <EditText android:id="@id/agc_max_gain" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="0" android:inputType="numberDecimal" />
+    <ai.plaud.android.plaud.component.PlaudSwitchButton android:id="@id/export_soundplus_audio_switch" android:layout_width="wrap_content" android:layout_height="50.0dip" app:title="展示导出降噪的开关" />
+    <ai.plaud.android.plaud.component.PlaudSwitchButton android:id="@id/use_old_editor" android:layout_width="wrap_content" android:layout_height="50.0dip" app:title="使用旧编辑器" />
+    <ai.plaud.android.plaud.component.PlaudSwitchButton android:id="@id/use_vditor_editor" android:layout_width="wrap_content" android:layout_height="50.0dip" app:title="使用Vditor编辑器" />
+    <ai.plaud.android.plaud.component.PlaudSwitchButton android:id="@id/use_milkdown_editor" android:layout_width="wrap_content" android:layout_height="50.0dip" app:title="使用Milkdown编辑器" />
+    <ai.plaud.android.plaud.component.PlaudSwitchButton android:id="@id/dont_delete_file" android:layout_width="wrap_content" android:layout_height="50.0dip" app:title="同步后不删除设备文件" />
+</androidx.appcompat.widget.LinearLayoutCompat>

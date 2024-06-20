@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="start" android:orientation="vertical" android:paddingTop="@dimen/zuia_spacing_xlarge" android:paddingBottom="@dimen/zuia_spacing_xlarge" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?attachMenuStyle">
+        <TextView android:textSize="@dimen/zuia_header_title_text_size" android:gravity="start|center" android:id="@id/menu_item_camera" android:background="?selectableItemBackground" android:paddingTop="@dimen/zuia_spacing_medium" android:paddingBottom="@dimen/zuia_spacing_medium" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/zuia_dialog_take_a_photo" android:drawablePadding="@dimen/zuia_spacing_xlarge" android:paddingStart="@dimen/zuia_spacing_xlarge" android:paddingEnd="@dimen/zuia_spacing_xlarge" app:drawableStartCompat="@drawable/zuia_ic_camera" app:drawableTint="?android:textColorPrimary" />
+        <TextView android:textSize="@dimen/zuia_header_title_text_size" android:gravity="start|center" android:id="@id/menu_item_gallery" android:background="?selectableItemBackground" android:paddingTop="@dimen/zuia_spacing_medium" android:paddingBottom="@dimen/zuia_spacing_medium" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/zuia_dialog_upload_a_file" android:drawablePadding="@dimen/zuia_spacing_xlarge" android:paddingStart="@dimen/zuia_spacing_xlarge" android:paddingEnd="@dimen/zuia_spacing_xlarge" app:drawableStartCompat="@drawable/zuia_ic_gallery" app:drawableTint="?android:textColorPrimary" />
+    </LinearLayout>
+</merge>

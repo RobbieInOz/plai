@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="integer" name="zuia_conversation_cell_divider_alpha">0.35</item>
+</resources>

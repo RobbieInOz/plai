@@ -1,0 +1,137 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>PLAUD Editor</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-sacle=1, maximum-scale=1">
+    <link rel="stylesheet" href="index.css"/>
+    <script src="index.min.js"></script>
+    <style>
+		html,body{height:100vh;width:100vw;padding:0px;margin:0px;overflow:hidden;}
+		.editorBox{
+			height:100vh;
+			width:100vw;
+			margin:0px;
+			padding:0px;
+			box-sizing: border-box;
+			overflow:hidden;
+			border:none;
+			background-color: '#ffffff';
+		}
+		.vditor-panel{
+		    display:none !important
+		}
+		.vditor-wysiwyg{
+		    height:100vh;
+		    background-color: '#ffffff';
+		}
+		.vditor-reset,vditor-content{
+		    background-color: '#ffffff';
+		}
+    </style>
+</head>
+<body>
+<div class="editorBox" id="vditor"/>
+</body>
+
+<script type="text/javascript">
+	const vditor = new Vditor("vditor", {
+      after: () => {
+        document.location = `js://vditorLoaded`;
+      },
+      toolbarConfig: {
+        pin: true,
+        hide: true
+      },
+      counter: {
+        enable: true
+      },
+      mode: 'wysiwyg',
+      toolbar: [
+        'headings',
+        'bold',
+        'list',
+        'ordered-list',
+        'strike',
+        'italic',
+        'insert-before',
+        'insert-after',
+        'outdent',
+        'indent',
+        'preview'
+      ],
+    });
+
+    // 在光标处插入数据
+    function insertValue(value,render) {
+		vditor.insertValue(value,render)
+	}
+
+	// 各级标题
+	function clickHeadline(index) {
+	    vditor.vditor.toolbar.elements.headings.firstElementChild.dispatchEvent(new CustomEvent("click"))
+		vditor.vditor.toolbar.elements.headings.getElementsByClassName("vditor-hint")[0].getElementsByTagName("button")[index].dispatchEvent(new CustomEvent("click"))
+		return "clickHeadline"
+	}
+
+    // 粗体
+	function clickBold() {
+		vditor.vditor.toolbar.elements.bold.firstElementChild.dispatchEvent(new CustomEvent("click"))
+		return "clickBold"
+	}
+
+	// 删除线
+	function clickStrike() {
+		vditor.vditor.toolbar.elements.strike.firstElementChild.dispatchEvent(new CustomEvent("click"))
+		return "clickStrike"
+	}
+
+    // 斜体
+	function clickItalic() {
+		vditor.vditor.toolbar.elements.italic.firstElementChild.dispatchEvent(new CustomEvent("click"))
+		return "clickItalic"
+	}
+
+	// 无序列表
+	function clickList() {
+		vditor.vditor.toolbar.elements.list.firstElementChild.dispatchEvent(new CustomEvent("click"))
+		return "clickList"
+	}
+
+	// 有序列表
+	function clickOrderedList() {
+		vditor.vditor.toolbar.elements["ordered-list"].firstElementChild.dispatchEvent(new CustomEvent("click"))
+		return "clickOrderedList"
+	}
+
+	// 列表向前缩进
+	function clickInsertBefore() {
+		vditor.vditor.toolbar.elements.outdent.firstElementChild.dispatchEvent(new CustomEvent("click"))
+		return "clickInsertBefore"
+	}
+
+	// 列表向后缩进
+	function clickInsertAfter() {
+		vditor.vditor.toolbar.elements.indent.firstElementChild.dispatchEvent(new CustomEvent("click"))
+		return "clickInsertAfter"
+	}
+
+	// 设置数据
+    function setContent(content) {
+		vditor.setValue(content.data)
+		return "setContent"
+	}
+
+	// 获取数据
+    function getValue() {
+		return vditor.getValue()
+	}
+
+	// 编辑器失焦
+    function blur() {
+		return vditor.blur()
+	}
+
+</script>
+
+</html>

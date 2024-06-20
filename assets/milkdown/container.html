@@ -1,0 +1,106 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>editor</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-sacle=1, maximum-scale=1">
+    <style>
+		html,body{height:100vh;width:100vw;padding:0px;margin:0px;overflow:hidden;}
+				.editorBox{
+					height:100vh;
+					min-height: 300px;
+					width:100vw;
+					margin:0px;
+					padding:0px;
+					box-sizing: border-box;
+					overflow:hidden;
+				}
+				#myframe{
+						height: 100%;
+						width:100%;
+						border:none;
+				}
+    </style>
+</head>
+
+<body>
+<div class="editorBox">
+    <iframe src="./index.html" id="myframe" frameborder="0"></iframe>
+</div>
+</body>
+
+<script type="text/javascript">
+	var editorDom = document.getElementById('myframe').contentWindow;
+
+    // 在光标处插入数据
+    function insertValue(value) {
+		editorDom.myeditor.insertContent(value)
+		return "insertValue"
+	}
+
+	// 各级标题
+	function clickHeadline(index) {
+	    editorDom.myeditor.setHeadline(index)
+	    return "clickHeadline"
+	}
+
+    // 粗体
+	function clickBold() {
+		editorDom.myeditor.bold()
+		return "clickBold"
+	}
+
+	// 删除线
+	function clickStrike() {
+		editorDom.myeditor.strike()
+		return "clickStrike"
+	}
+
+    // 斜体
+	function clickItalic() {
+		editorDom.myeditor.italic()
+		return "clickItalic"
+	}
+
+	// 无序列表
+	function clickList() {
+		editorDom.myeditor.bulletList()
+		return "clickList"
+	}
+
+	// 有序列表
+	function clickOrderedList() {
+		editorDom.myeditor.orderedList()
+		return "clickOrderedList"
+	}
+
+	// 列表向前缩进
+	function clickInsertBefore() {
+		editorDom.myeditor.liftListItem()
+		return "clickInsertBefore"
+	}
+
+	// 列表向后缩进
+	function clickInsertAfter() {
+		editorDom.myeditor.sinkListItem()
+		return "clickInsertAfter"
+	}
+
+	// 设置数据
+    function setContent(content) {
+		editorDom.myeditor.setContent(content.data)
+		return "setContent"
+	}
+
+	// 获取数据
+    function getValue() {
+		return editorDom.myeditor.getContent()
+	}
+
+	// 设置只读模式
+	function setReadonly() {
+		return editorDom.myeditor.setReadonly()
+	}
+</script>
+
+</html>

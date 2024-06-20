@@ -1,0 +1,2788 @@
+00:00:00,000 --> 00:00:19,160
+This is a day I’ve been looking forward to for two and a half years.
+00:00:19,160 --> 00:00:27,760
+Every once in a while, a revolutionary product comes along that changes everything.
+00:00:27,760 --> 00:00:34,480
+And Apple has been, well, first of all, one’s very fortunate if you get to work on just
+00:00:34,480 --> 00:00:39,000
+one of these in your career.
+00:00:39,000 --> 00:00:41,200
+Apple’s been very fortunate.
+00:00:41,200 --> 00:00:46,040
+It’s been able to introduce a few of these into the world.
+00:00:46,040 --> 00:00:50,960
+In 1984, we introduced the Macintosh.
+00:00:50,960 --> 00:00:53,120
+It didn’t just change Apple.
+00:00:53,120 --> 00:01:06,400
+It changed the whole computer industry.
+00:01:06,400 --> 00:01:12,400
+In 2001, we introduced the first iPod.
+00:01:12,400 --> 00:01:19,200
+And it didn’t just change the way we all listen to music.
+00:01:19,200 --> 00:01:22,720
+It changed the entire music industry.
+00:01:22,720 --> 00:01:35,880
+Well, today, we’re introducing three revolutionary products of this class.
+00:01:35,880 --> 00:01:52,920
+The first one is a widescreen iPod with touch controls.
+00:01:52,920 --> 00:02:07,960
+The second is a revolutionary mobile phone.
+00:02:07,960 --> 00:02:15,920
+And the third is a breakthrough internet communications device.
+00:02:15,920 --> 00:02:21,440
+So, three things.
+00:02:21,440 --> 00:02:27,720
+A widescreen iPod with touch controls, a revolutionary mobile phone, and a breakthrough
+00:02:27,720 --> 00:02:31,720
+internet communications device.
+00:02:31,720 --> 00:02:39,840
+An iPod, a phone, and an internet communicator.
+00:02:39,840 --> 00:02:42,840
+An iPod, a phone.
+00:02:42,840 --> 00:02:50,200
+Are you getting it?
+00:02:50,200 --> 00:02:54,200
+These are not three separate devices.
+00:02:54,200 --> 00:02:57,200
+This is one device.
+00:02:57,200 --> 00:03:05,840
+And we are calling it iPhone.
+00:03:06,840 --> 00:03:12,840
+Today, Apple is going to reinvent the phone.
+00:03:12,840 --> 00:03:18,840
+And here it is.
+00:03:18,840 --> 00:03:21,840
+No.
+00:03:21,840 --> 00:03:26,840
+Actually, here it is, but we’re going to leave it there for now.
+00:03:26,840 --> 00:03:35,840
+So, before we get into it, let me talk about a category of things.
+00:03:35,840 --> 00:03:41,840
+The most advanced phones are called smartphones, so they say.
+00:03:41,840 --> 00:03:47,840
+And they typically combine a phone plus some email capability, plus they say it’s the internet,
+00:03:47,840 --> 00:03:50,840
+sort of the baby internet, into one device.
+00:03:50,840 --> 00:03:53,840
+And they all have these plastic little keyboards on them.
+00:03:54,840 --> 00:04:00,840
+And the problem is that they’re not so smart and they’re not so easy to use.
+00:04:00,840 --> 00:04:07,840
+So, if you kind of make a business school 101 graph of the smart axis and the easy to use axis,
+00:04:07,840 --> 00:04:09,840
+phones, regular cell phones are kind of right there.
+00:04:09,840 --> 00:04:15,840
+They’re not so smart and they’re not so easy to use.
+00:04:15,840 --> 00:04:19,840
+But smartphones are definitely a little smarter, but they actually are harder to use.
+00:04:19,840 --> 00:04:21,840
+They’re really complicated.
+00:04:21,840 --> 00:04:26,840
+Just for the basic stuff, people have a hard time figuring out how to use them.
+00:04:26,840 --> 00:04:28,840
+Well, we don’t want to do either one of these things.
+00:04:28,840 --> 00:04:36,840
+What we want to do is make a leapfrog product that is way smarter than any mobile device has ever been
+00:04:36,840 --> 00:04:38,840
+and super easy to use.
+00:04:38,840 --> 00:04:43,840
+This is what iPhone is.
+00:04:43,840 --> 00:04:47,840
+So, we’re going to reinvent the phone.
+00:04:47,840 --> 00:04:56,840
+We’re going to start with a revolutionary user interface.
+00:04:56,840 --> 00:05:02,840
+It is the result of years of research and development.
+00:05:02,840 --> 00:05:06,840
+And, of course, it’s an interplay of hardware and software.
+00:05:06,840 --> 00:05:09,840
+Now, why do we need a revolutionary user interface?
+00:05:09,840 --> 00:05:12,840
+I mean, here’s four smartphones, right?
+00:05:12,840 --> 00:05:17,840
+Motorola Q, the Blackberry, Palm Treo, Nokia E62, the usual suspects.
+00:05:17,840 --> 00:05:20,840
+And what’s wrong with their user interfaces?
+00:05:20,840 --> 00:05:25,840
+Well, the problem with them is really sort of in the bottom 40 there.
+00:05:25,840 --> 00:05:28,840
+It’s this stuff right here.
+00:05:28,840 --> 00:05:32,840
+They all have these keyboards that are there whether you need them or not to be there.
+00:05:32,840 --> 00:05:39,840
+And they all have these control buttons that are fixed in plastic and are the same for every application.
+00:05:39,840 --> 00:05:42,840
+Well, every application wants a slightly different user interface,
+00:05:42,840 --> 00:05:46,840
+a slightly optimized set of buttons just for it.
+00:05:46,840 --> 00:05:49,840
+And what happens if you think of a great idea six months from now?
+00:05:49,840 --> 00:05:51,840
+You can’t run around and add a button to these things.
+00:05:51,840 --> 00:05:52,840
+They’re already shipped.
+00:05:52,840 --> 00:05:54,840
+So, what do you do?
+00:05:54,840 --> 00:05:59,840
+It doesn’t work because the buttons and the controls can’t change.
+00:05:59,840 --> 00:06:01,840
+They can’t change for each application,
+00:06:01,840 --> 00:06:07,840
+and they can’t change down the road if you think of another great idea you want to add to this product.
+00:06:07,840 --> 00:06:09,840
+How do you solve this?
+00:06:09,840 --> 00:06:11,840
+It turns out we have solved it.
+00:06:11,840 --> 00:06:15,840
+We solved it in computers 20 years ago.
+00:06:15,840 --> 00:06:20,840
+We solved it with a bitmap screen that could display anything we want,
+00:06:20,840 --> 00:06:24,840
+put any user interface up, and a pointing device.
+00:06:24,840 --> 00:06:27,840
+We solved it with the mouse, right?
+00:06:27,840 --> 00:06:28,840
+We solved this problem.
+00:06:28,840 --> 00:06:31,840
+So, how are we going to take this to a mobile device?
+00:06:31,840 --> 00:06:37,840
+Well, what we’re going to do is get rid of all these buttons and just make a giant screen.
+00:06:37,840 --> 00:06:40,840
+A giant screen.
+00:06:40,840 --> 00:06:42,840
+Now, how are we going to communicate this?
+00:06:42,840 --> 00:06:44,840
+We don’t want to carry around a mouse, right?
+00:06:44,840 --> 00:06:46,840
+So, what are we going to do?
+00:06:46,840 --> 00:06:48,840
+Oh, a stylus, right?
+00:06:48,840 --> 00:06:50,840
+We’re going to use a stylus.
+00:06:50,840 --> 00:06:52,840
+No.
+00:06:52,840 --> 00:06:55,840
+Who wants a stylus?
+00:06:55,840 --> 00:06:57,840
+You have to get them and put them away, and you lose them.
+00:06:57,840 --> 00:06:58,840
+Yuck.
+00:06:58,840 --> 00:07:00,840
+Nobody wants a stylus.
+00:07:00,840 --> 00:07:02,840
+Let’s not use a stylus.
+00:07:02,840 --> 00:07:04,840
+We’re going to use the best pointing device in the world.
+00:07:04,840 --> 00:07:07,840
+We’re going to use a pointing device that we’re all born with.
+00:07:07,840 --> 00:07:08,840
+We’re born with ten of them.
+00:07:08,840 --> 00:07:10,840
+We’re going to use our fingers.
+00:07:10,840 --> 00:07:12,840
+We’re going to touch this with our fingers.
+00:07:12,840 --> 00:07:18,840
+And we have invented a new technology called multi-touch, which is phenomenal.
+00:07:18,840 --> 00:07:22,840
+It works like magic.
+00:07:22,840 --> 00:07:24,840
+You don’t need a stylus.
+00:07:24,840 --> 00:07:29,840
+It’s far more accurate than any touch display that’s ever been shipped.
+00:07:29,840 --> 00:07:31,840
+It ignores unintended touches.
+00:07:31,840 --> 00:07:33,840
+It’s super smart.
+00:07:33,840 --> 00:07:36,840
+You can do multi-finger gestures on it.
+00:07:36,840 --> 00:07:39,840
+And boy, have we patented it.
+00:07:39,840 --> 00:07:55,840
+So, we’ve been very lucky to have brought a few revolutionary user interfaces to the market in our time.
+00:07:55,840 --> 00:07:58,840
+First was the mouse.
+00:07:58,840 --> 00:08:01,840
+The second was the click wheel.
+00:08:01,840 --> 00:08:05,840
+And now we’re going to bring multi-touch to the market.
+00:08:05,840 --> 00:08:11,840
+And each of these revolutionary user interfaces has made possible a revolutionary product.
+00:08:11,840 --> 00:08:15,840
+The Mac, the iPod, and now the iPhone.
+00:08:15,840 --> 00:08:18,840
+So, a revolutionary user interface.
+00:08:18,840 --> 00:08:22,840
+We’re going to build on top of that with software.
+00:08:22,840 --> 00:08:28,840
+Now, software on mobile phones is like baby software.
+00:08:28,840 --> 00:08:31,840
+It’s not so powerful.
+00:08:31,840 --> 00:08:34,840
+And today, we’re going to show you a software breakthrough.
+00:08:34,840 --> 00:08:39,840
+Software that’s at least five years ahead of what’s on any other phone.
+00:08:39,840 --> 00:08:40,840
+Now, how do we do this?
+00:08:40,840 --> 00:08:43,840
+Well, we start with a strong foundation.
+00:08:43,840 --> 00:08:46,840
+iPhone runs OS X.
+00:08:46,840 --> 00:09:01,840
+Now, why would we want to run such a sophisticated operating system on a mobile device?
+00:09:01,840 --> 00:09:03,840
+Well, because it’s got everything we need.
+00:09:03,840 --> 00:09:05,840
+It’s got multitasking.
+00:09:05,840 --> 00:09:07,840
+It’s got the best networking.
+00:09:07,840 --> 00:09:09,840
+It already knows how to power manage.
+00:09:09,840 --> 00:09:12,840
+We’ve been doing this on mobile computers for years.
+00:09:12,840 --> 00:09:14,840
+It’s got awesome security.
+00:09:14,840 --> 00:09:15,840
+And the right apps.
+00:09:15,840 --> 00:09:19,840
+It’s got everything from Coco and the graphics.
+00:09:19,840 --> 00:09:21,840
+And it’s got core animation built in.
+00:09:21,840 --> 00:09:25,840
+And it’s got the audio and video that OS X is famous for.
+00:09:25,840 --> 00:09:27,840
+It’s got all the stuff we want.
+00:09:27,840 --> 00:09:29,840
+And it’s built right in to iPhone.
+00:09:29,840 --> 00:09:35,840
+And that has let us create desktop class applications and networking.
+00:09:35,840 --> 00:09:37,840
+Right?
+00:09:37,840 --> 00:09:40,840
+Not the crippled stuff that you find on most phones.
+00:09:40,840 --> 00:09:44,840
+This is real desktop class applications.
+00:09:44,840 --> 00:09:51,840
+Now, you know, one of the pioneers of our industry, Alan Kay, has had a lot of great quotes throughout the years.
+00:09:51,840 --> 00:09:57,840
+And I ran across one of them recently that explains how we look at this.
+00:09:57,840 --> 00:10:01,840
+Explains why we go about doing things the way we do.
+00:10:01,840 --> 00:10:03,840
+Because we love software.
+00:10:03,840 --> 00:10:05,840
+And here’s the quote.
+00:10:05,840 --> 00:10:10,840
+People who are really serious about software should make their own hardware.
+00:10:10,840 --> 00:10:14,840
+Now, Alan said this 30 years ago.
+00:10:14,840 --> 00:10:15,840
+And this is how we feel about it.
+00:10:15,840 --> 00:10:20,840
+And so we’re bringing breakthrough software to a mobile device for the first time.
+00:10:20,840 --> 00:10:24,840
+It’s five years ahead of anything on any other phone.
+00:10:24,840 --> 00:10:28,840
+The second thing we’re doing is we’re learning from the iPod.
+00:10:28,840 --> 00:10:29,840
+Syncing with iTunes.
+00:10:29,840 --> 00:10:33,840
+You know, we’re going to ship our 100 millionth iPod this year.
+00:10:33,840 --> 00:10:40,840
+And that’s tens of millions of people that know how to sync these devices with their PCs or Mac
+00:10:40,840 --> 00:10:43,840
+and sync all of their media right onto their iPod.
+00:10:43,840 --> 00:10:44,840
+Right?
+00:10:44,840 --> 00:10:48,840
+So you just drop your iPod in and it automatically syncs.
+00:10:48,840 --> 00:10:50,840
+You’re going to do the same thing with iPhone.
+00:10:50,840 --> 00:10:54,840
+It automatically syncs to your PC or Mac right through iTunes.
+00:10:54,840 --> 00:10:58,840
+And iTunes is going to sync all your media onto your iPhone.
+00:10:58,840 --> 00:11:03,840
+Your music, your audio books, podcasts, movies, TV shows, music videos.
+00:11:03,840 --> 00:11:06,840
+But it also syncs a ton of data.
+00:11:06,840 --> 00:11:10,840
+Your contacts, your calendars, and your photos, which you can get on your iPod today,
+00:11:10,840 --> 00:11:16,840
+your notes, your bookmarks from your web browser, your e-mail accounts, your whole e-mail setup,
+00:11:16,840 --> 00:11:20,840
+all that stuff can be moved over to iPhone completely automatically.
+00:11:20,840 --> 00:11:21,840
+It’s really nice.
+00:11:21,840 --> 00:11:25,840
+And we do it through iTunes.
+00:11:25,840 --> 00:11:30,840
+Again, you go to iTunes and you set it up just like you’d set up an iPod or an Apple TV.
+00:11:30,840 --> 00:11:34,840
+And you set up what you want synced to your iPhone.
+00:11:34,840 --> 00:11:36,840
+And it’s just like an iPod.
+00:11:36,840 --> 00:11:38,840
+Charge and sync.
+00:11:38,840 --> 00:11:41,840
+So sync with iTunes.
+00:11:41,840 --> 00:11:44,840
+Third thing I want to talk about a little is design.
+00:11:44,840 --> 00:11:48,840
+We’ve designed something wonderful for your hand.
+00:11:48,840 --> 00:11:50,840
+Just wonderful.
+00:11:50,840 --> 00:11:54,840
+And this is what it looks like.
+00:11:54,840 --> 00:11:56,840
+It’s got a three-and-a-half-inch screen on it.
+00:11:56,840 --> 00:11:58,840
+It’s really big.
+00:11:58,840 --> 00:12:01,840
+And it’s the highest resolution screen we’ve ever shipped.
+00:12:01,840 --> 00:12:04,840
+It’s 160 pixels per inch.
+00:12:04,840 --> 00:12:05,840
+Highest we’ve ever shipped.
+00:12:05,840 --> 00:12:07,840
+It’s gorgeous.
+00:12:07,840 --> 00:12:09,840
+And on the front, there’s only one button down there.
+00:12:09,840 --> 00:12:10,840
+We call it the home button.
+00:12:10,840 --> 00:12:12,840
+It takes you home from wherever you are.
+00:12:12,840 --> 00:12:14,840
+And that’s it.
+00:12:14,840 --> 00:12:15,840
+Let’s take a look at the side.
+00:12:15,840 --> 00:12:17,840
+It’s really thin.
+00:12:17,840 --> 00:12:22,840
+It’s thinner than any smartphone out there at 11.6 millimeters.
+00:12:22,840 --> 00:12:23,840
+Thinner than the Q.
+00:12:23,840 --> 00:12:24,840
+Thinner than the Blackjack.
+00:12:24,840 --> 00:12:26,840
+Thinner than all of them.
+00:12:26,840 --> 00:12:28,840
+It’s really nice.
+00:12:28,840 --> 00:12:29,840
+And we’ve got some controls on the side.
+00:12:29,840 --> 00:12:31,840
+We’ve got a little switch for ring and silent.
+00:12:31,840 --> 00:12:34,840
+We’ve got a volume up and down control.
+00:12:34,840 --> 00:12:36,840
+Let’s look at the back.
+00:12:36,840 --> 00:12:40,840
+On the back, the biggest thing of note is we’ve got a 2-megapixel camera built right in.
+00:12:40,840 --> 00:12:45,840
+The other side, we’re back on the front.
+00:12:45,840 --> 00:12:47,840
+So let’s take a look at the top now.
+00:12:47,840 --> 00:12:50,840
+We’ve got a headset jack.
+00:12:50,840 --> 00:12:51,840
+3.5 millimeter.
+00:12:51,840 --> 00:12:54,840
+All your iPod headphones fit right in.
+00:12:54,840 --> 00:12:57,840
+We’ve got a place, a little tray for your SIM card.
+00:12:57,840 --> 00:13:00,840
+And we’ve got one switch for sleep and wake.
+00:13:00,840 --> 00:13:01,840
+Just push it to go to sleep.
+00:13:01,840 --> 00:13:03,840
+Push it to wake up.
+00:13:03,840 --> 00:13:06,840
+Let’s take a look at the bottom.
+00:13:06,840 --> 00:13:08,840
+We’ve got a speaker.
+00:13:08,840 --> 00:13:10,840
+We’ve got a microphone.
+00:13:10,840 --> 00:13:14,840
+And we’ve got our 30-pin iPod connector.
+00:13:14,840 --> 00:13:16,840
+So that’s the bottom.
+00:13:16,840 --> 00:13:19,840
+Now, we’ve also got some stuff you can’t see.
+00:13:19,840 --> 00:13:23,840
+We’ve got three really advanced sensors built into this phone.
+00:13:23,840 --> 00:13:25,840
+The first one is a proximity sensor.
+00:13:25,840 --> 00:13:27,840
+It senses when physical objects get close.
+00:13:27,840 --> 00:13:31,840
+So when you bring iPhone up to your ear to take a phone call,
+00:13:31,840 --> 00:13:35,840
+it turns off the display and it turns off the touch sensor instantly.
+00:13:35,840 --> 00:13:36,840
+Why do you want to do that?
+00:13:36,840 --> 00:13:41,840
+Well, one, to save battery, but two, so you don’t get spurious inputs from your face into the touch screen.
+00:13:41,840 --> 00:13:42,840
+It just automatically turns them off.
+00:13:42,840 --> 00:13:43,840
+Take it away.
+00:13:43,840 --> 00:13:44,840
+Boom, it’s back on.
+00:13:44,840 --> 00:13:45,840
+So it’s got a proximity sensor built in.
+00:13:45,840 --> 00:13:47,840
+It’s got an ambient light sensor as well.
+00:13:47,840 --> 00:13:50,840
+We sense the ambient lighting conditions and adjust the brightness of the display
+00:13:50,840 --> 00:13:52,840
+to match the ambient lighting conditions.
+00:13:52,840 --> 00:13:55,840
+Again, better user experience saves power.
+00:13:55,840 --> 00:13:58,840
+And the third thing we’ve got is an accelerometer
+00:13:58,840 --> 00:14:01,840
+so that we can tell when you switch from portrait to landscape.
+00:14:01,840 --> 00:14:02,840
+It’s pretty cool.
+00:14:02,840 --> 00:14:04,840
+I’ll show it to you in a minute.
+00:14:04,840 --> 00:14:07,840
+So three advanced sensors built in.
+00:14:07,840 --> 00:14:11,840
+So let’s go ahead and turn it on.
+00:14:11,840 --> 00:14:12,840
+This is the size of it.
+00:14:12,840 --> 00:14:16,840
+It fits beautifully in the palm of your hand.
+00:14:16,840 --> 00:14:24,840
+So an iPod, a phone, and an Internet communicator.
+00:14:24,840 --> 00:14:27,840
+Let’s start with the iPod.
+00:14:27,840 --> 00:14:30,840
+You can touch your music.
+00:14:30,840 --> 00:14:31,840
+You can just touch your music.
+00:14:31,840 --> 00:14:33,840
+It’s so cool.
+00:14:33,840 --> 00:14:35,840
+You’ve got a widescreen video.
+00:14:35,840 --> 00:14:38,840
+You can find your music even faster.
+00:14:38,840 --> 00:14:42,840
+Gorgeous album art on this display.
+00:14:42,840 --> 00:14:45,840
+Built-in speaker and, why not,
+00:14:45,840 --> 00:14:46,840
+cover flow.
+00:14:46,840 --> 00:14:49,840
+First time ever on an iPod.
+00:14:49,840 --> 00:14:51,840
+So rather than talk about this some more,
+00:14:51,840 --> 00:14:52,840
+let me show it to you.
+00:14:52,840 --> 00:15:03,840
+All righty.
+00:15:03,840 --> 00:15:07,840
+Now, I’ve got some special iPhones up here.
+00:15:07,840 --> 00:15:09,840
+They’ve got a little special board in them
+00:15:09,840 --> 00:15:11,840
+so I can get some digital video out.
+00:15:11,840 --> 00:15:14,840
+I’ve got a little cord here which goes up to these projectors.
+00:15:14,840 --> 00:15:17,840
+And so I’ve got some great images.
+00:15:17,840 --> 00:15:19,840
+And you get to see what it really looks like.
+00:15:19,840 --> 00:15:21,840
+So let me, I’ve got a camera here
+00:15:21,840 --> 00:15:24,840
+so you can see what I’m doing with my finger for a few seconds.
+00:15:24,840 --> 00:15:27,840
+And let me go ahead and get that picture within picture up.
+00:15:27,840 --> 00:15:31,840
+I’m going to go ahead and just push the sleep-wake button.
+00:15:31,840 --> 00:15:32,840
+There we go, right there.
+00:15:32,840 --> 00:15:35,840
+And to unlock the phone, I just take my finger
+00:15:35,840 --> 00:15:37,840
+and slide it across.
+00:15:37,840 --> 00:15:39,840
+All right, you want to see that again?
+00:15:39,840 --> 00:15:41,840
+Go to sleep.
+00:15:41,840 --> 00:15:43,840
+We wanted something that you couldn’t do by accident
+00:15:43,840 --> 00:15:45,840
+and just slide it across.
+00:15:45,840 --> 00:15:46,840
+Boom.
+00:15:46,840 --> 00:15:49,840
+And this is the home screen of iPhone right here.
+00:15:49,840 --> 00:15:51,840
+And so if I want to get in the iPod,
+00:15:51,840 --> 00:15:53,840
+I just go down that lower right-hand corner
+00:15:53,840 --> 00:15:55,840
+and push this icon right here.
+00:15:55,840 --> 00:15:57,840
+And boom, I’m in the iPod.
+00:15:57,840 --> 00:15:59,840
+I want to get home, I push the home button right here,
+00:15:59,840 --> 00:16:01,840
+and I’m home.
+00:16:01,840 --> 00:16:04,840
+Back in the iPod, I’m back in the iPod.
+00:16:04,840 --> 00:16:05,840
+Now, here I am.
+00:16:05,840 --> 00:16:07,840
+You see five buttons across the bottom.
+00:16:07,840 --> 00:16:10,840
+Playlists, artists, songs, videos, and more.
+00:16:10,840 --> 00:16:11,840
+I’m in artists right now.
+00:16:11,840 --> 00:16:14,840
+Well, how do I scroll through my list of artists?
+00:16:14,840 --> 00:16:16,840
+How do I do this?
+00:16:16,840 --> 00:16:19,840
+I just take my finger and I scroll.
+00:16:19,840 --> 00:16:21,840
+That’s it.
+00:16:29,840 --> 00:16:30,840
+Isn’t that cool?
+00:16:30,840 --> 00:16:32,840
+A little rubber banding up when I run off the edge.
+00:16:32,840 --> 00:16:33,840
+And if I want to pick somebody,
+00:16:33,840 --> 00:16:34,840
+let’s say I want to pick the Beatles,
+00:16:34,840 --> 00:16:36,840
+I just tap them.
+00:16:36,840 --> 00:16:38,840
+And here’s the Beatles songs with their albums right here.
+00:16:38,840 --> 00:16:40,840
+I want to play Sgt. Pepper,
+00:16:40,840 --> 00:16:42,840
+so I just hit Sgt. Pepper’s right there.
+00:16:42,840 --> 00:16:45,840
+And a little help from my friends.
+00:16:45,840 --> 00:16:48,840
+Look at this gorgeous album artwork here.
+00:16:48,840 --> 00:16:56,840
+Of course, I’ve got a volume control.
+00:16:56,840 --> 00:16:58,840
+Now, I’ve got a little button up in the corner right here.
+00:16:58,840 --> 00:17:00,840
+You can see in the upper right-hand corner,
+00:17:00,840 --> 00:17:03,840
+I can hit that and flip the album art around.
+00:17:03,840 --> 00:17:05,840
+Here’s all the other songs back here.
+00:17:05,840 --> 00:17:08,840
+And I can play Lovely Rita if I want to.
+00:17:08,840 --> 00:17:10,840
+Flip it back around.
+00:17:10,840 --> 00:17:13,840
+Very simple.
+00:17:13,840 --> 00:17:18,840
+I can set some stars back here just by setting the arrows.
+00:17:18,840 --> 00:17:21,840
+That’s a five star album.
+00:17:21,840 --> 00:17:23,840
+Isn’t that cool?
+00:17:23,840 --> 00:17:26,840
+Yeah, it’s pretty nice.
+00:17:26,840 --> 00:17:33,840
+Now, let me show you something else.
+00:17:33,840 --> 00:17:37,840
+I just take my unit here and I turn it landscape mode.
+00:17:37,840 --> 00:17:38,840
+And what happens?
+00:17:38,840 --> 00:17:42,840
+I’m in cover flow.
+00:17:42,840 --> 00:17:44,840
+Let’s go into Dylan here.
+00:17:44,840 --> 00:17:52,840
+Let’s play Like a Rolling Stone.
+00:17:52,840 --> 00:17:55,840
+I just thump through.
+00:17:55,840 --> 00:18:00,840
+Thump through my albums.
+00:18:00,840 --> 00:18:01,840
+It’s real easy.
+00:18:01,840 --> 00:18:03,840
+Anytime I find something I like,
+00:18:03,840 --> 00:18:07,840
+turn it around, play something.
+00:18:07,840 --> 00:18:30,840
+It’s that easy.
+00:18:30,840 --> 00:18:31,840
+It’s that simple.
+00:18:31,840 --> 00:18:32,840
+Isn’t that great?
+00:18:32,840 --> 00:18:46,840
+Yeah.
+00:18:46,840 --> 00:18:47,840
+All right.
+00:18:47,840 --> 00:18:50,840
+I could play with this for a long time.
+00:18:50,840 --> 00:18:52,840
+Now, again, I’ve got playlists here.
+00:18:52,840 --> 00:18:53,840
+I can go into my playlists.
+00:18:53,840 --> 00:18:54,840
+I’ve got artists.
+00:18:54,840 --> 00:18:56,840
+I’ve got songs.
+00:18:56,840 --> 00:18:57,840
+I’ve got more over here.
+00:18:57,840 --> 00:18:58,840
+I’ve got albums.
+00:18:58,840 --> 00:19:00,840
+I’ve got a great album view, again,
+00:19:00,840 --> 00:19:04,840
+which shows all my album artwork right here if I want.
+00:19:04,840 --> 00:19:07,840
+And I’ve also got audio books and compilations and things like that.
+00:19:07,840 --> 00:19:09,840
+I’ve also got videos here.
+00:19:09,840 --> 00:19:11,840
+So I push videos and I’ve got here,
+00:19:11,840 --> 00:19:15,840
+I’ve got a video podcast loaded on and a music video.
+00:19:15,840 --> 00:19:16,840
+I’ve got a TV show and a movie.
+00:19:16,840 --> 00:19:19,840
+And I’d like to just show you the TV show here.
+00:19:19,840 --> 00:19:20,840
+This is an episode from The Office.
+00:19:20,840 --> 00:19:22,840
+All videos we look at in Landscape.
+00:19:22,840 --> 00:19:30,840
+And now, an NBC presentation.
+00:19:30,840 --> 00:19:31,840
+Hey.
+00:19:32,840 --> 00:19:35,840
+Who were you faxing so early in the morning?
+00:19:35,840 --> 00:19:39,840
+Oh, kind of hard to explain.
+00:19:39,840 --> 00:19:42,840
+I don’t have a ton of contact with this Granton branch,
+00:19:42,840 --> 00:19:46,840
+but before I left, I took a box of Dwight stationery.
+00:19:47,840 --> 00:19:51,840
+So from time to time, I send Dwight faxes.
+00:19:51,840 --> 00:19:53,840
+From himself.
+00:19:53,840 --> 00:19:56,840
+From the future.
+00:19:56,840 --> 00:19:59,840
+Dwight, at 8 a.m. today, someone poisons the coffee.
+00:19:59,840 --> 00:20:01,840
+Do not drink the coffee.
+00:20:01,840 --> 00:20:03,840
+More instructions will follow.
+00:20:03,840 --> 00:20:10,840
+Cordially, future Dwight.
+00:20:10,840 --> 00:20:18,840
+No!
+00:20:18,840 --> 00:20:21,840
+We have touch controls on here, of course.
+00:20:21,840 --> 00:20:23,840
+Isn’t that awesome?
+00:20:24,840 --> 00:20:25,840
+Let’s go.
+00:20:25,840 --> 00:20:27,840
+Now I want to show you a movie playing.
+00:20:27,840 --> 00:20:30,840
+Let’s play Pirates of the Caribbean, the second one here.
+00:20:30,840 --> 00:20:31,840
+Great movie, by the way.
+00:20:31,840 --> 00:20:34,840
+And…
+00:20:34,840 --> 00:20:38,840
+The bright side is, you’re back and made it all free.
+00:20:38,840 --> 00:20:41,840
+This is a widescreen movie, so I just double tap
+00:20:41,840 --> 00:20:43,840
+and I can see the whole thing here.
+00:20:43,840 --> 00:20:45,840
+Or I can fill up the screen.
+00:20:45,840 --> 00:20:57,840
+Whichever I like.
+00:20:57,840 --> 00:20:59,840
+And again, I’ve got on-screen controls here.
+00:20:59,840 --> 00:21:01,840
+Isn’t this cool?
+00:21:01,840 --> 00:21:07,840
+We can be watching feature-length movies just like this.
+00:21:07,840 --> 00:21:08,840
+Alrighty.
+00:21:08,840 --> 00:21:13,840
+So that is the iPod.
+00:21:13,840 --> 00:21:16,840
+Pretty cool, huh?
+00:21:16,840 --> 00:21:19,840
+We’ve just started.
+00:21:19,840 --> 00:21:23,840
+So again, touch your music.
+00:21:23,840 --> 00:21:24,840
+Scroll through your songs.
+00:21:24,840 --> 00:21:25,840
+Scroll through your playlists.
+00:21:25,840 --> 00:21:26,840
+It’s incredible.
+00:21:26,840 --> 00:21:29,840
+Widescreen video like you’ve never seen on a portable device.
+00:21:29,840 --> 00:21:31,840
+160 pixels per inch.
+00:21:31,840 --> 00:21:34,840
+Gorgeous screen quality.
+00:21:34,840 --> 00:21:37,840
+Gorgeous album art.
+00:21:37,840 --> 00:21:39,840
+And cover flow.
+00:21:39,840 --> 00:21:43,840
+It’s the best iPod we’ve ever made.
+00:21:43,840 --> 00:21:46,840
+Again, some of the screenshots.
+00:21:46,840 --> 00:21:49,840
+It’s unbelievable.
+00:21:49,840 --> 00:21:54,840
+Here’s some album art I just put up so you can see what it looks like.
+00:21:54,840 --> 00:22:03,840
+Just no matter what you like, it looks pretty doggone gorgeous.
+00:22:03,840 --> 00:22:14,840
+And, of course, cover flow and video with on-screen controls.
+00:22:14,840 --> 00:22:18,840
+You know, I was showing this to somebody.
+00:22:18,840 --> 00:22:24,840
+I was giving a demo to somebody a little while ago who had never seen this before inside Apple.
+00:22:24,840 --> 00:22:25,840
+And I finished the demo.
+00:22:25,840 --> 00:22:27,840
+I said, what do you think?
+00:22:27,840 --> 00:22:28,840
+And he told me this.
+00:22:28,840 --> 00:22:32,840
+He said, you had me at scrolling.
+00:22:32,840 --> 00:22:38,840
+So, the iPhone with the most amazing iPod ever.
+00:22:38,840 --> 00:22:40,840
+You can now touch your music.
+00:22:40,840 --> 00:22:42,840
+So that’s the iPod.
+00:22:42,840 --> 00:22:46,840
+Now, let’s take a look at a revolutionary phone.
+00:22:46,840 --> 00:22:48,840
+We want to reinvent the phone.
+00:22:48,840 --> 00:22:51,840
+Now, what’s the killer app?
+00:22:51,840 --> 00:22:53,840
+The killer app is making calls.
+00:22:53,840 --> 00:22:57,840
+It’s amazing.
+00:22:57,840 --> 00:23:01,840
+It’s amazing how hard it is to make calls on most phones.
+00:23:01,840 --> 00:23:04,840
+Most people actually dial them every time.
+00:23:04,840 --> 00:23:07,840
+Most people don’t have very many numbers in their address book.
+00:23:07,840 --> 00:23:10,840
+They use their recents as their address book, right?
+00:23:10,840 --> 00:23:11,840
+How many of you do that?
+00:23:11,840 --> 00:23:13,840
+I bet more than a few.
+00:23:13,840 --> 00:23:17,840
+So, we want to let you use contacts like never before.
+00:23:17,840 --> 00:23:23,840
+You can sync your iPhone with your PC or Mac and bring down all your contacts right into your phone.
+00:23:23,840 --> 00:23:27,840
+So you’ve got everybody’s numbers with you at all times.
+00:23:27,840 --> 00:23:30,840
+We have something that’s going to revolutionize voicemail today.
+00:23:30,840 --> 00:23:32,840
+We call it visual voicemail.
+00:23:32,840 --> 00:23:36,840
+Wouldn’t it be great if you didn’t, if you had six voicemails,
+00:23:36,840 --> 00:23:40,840
+if you didn’t have to listen to five of them first before you wanted to listen to the sixth?
+00:23:40,840 --> 00:23:43,840
+Wouldn’t that be great if you had random access voicemail?
+00:23:43,840 --> 00:23:44,840
+Well, we’ve got it.
+00:23:44,840 --> 00:23:49,840
+Just like email, you can go directly to the voicemails that interest you.
+00:23:49,840 --> 00:23:52,840
+Excellent audio quality.
+00:23:52,840 --> 00:23:56,840
+iPhone is a quad band GSM plus edge phone.
+00:23:56,840 --> 00:24:04,840
+We have decided to go with the most popular international standard, which is GSM.
+00:24:04,840 --> 00:24:07,840
+We’re on that bandwagon, headed on that road map,
+00:24:07,840 --> 00:24:11,840
+and plan to make 3G phones and all sorts of other amazing things in the future.
+00:24:11,840 --> 00:24:14,840
+So, quad band GSM plus edge.
+00:24:14,840 --> 00:24:18,840
+And, of course, we have Wi-Fi and Bluetooth 2.0 EDR built in as well.
+00:24:22,840 --> 00:24:25,840
+And so this is what it looks like when you get a call.
+00:24:25,840 --> 00:24:27,840
+This is what it sounds like.
+00:24:27,840 --> 00:24:29,840
+It’s one of our ringtones you can pick, of course.
+00:24:33,840 --> 00:24:36,840
+So, I want to show you four things.
+00:24:36,840 --> 00:24:45,840
+I want to show you the phone app, photos, got a calendar, and SMS messaging.
+00:24:45,840 --> 00:24:51,840
+The kind of things you would find on a typical phone, but in a very untypical way now.
+00:24:51,840 --> 00:24:54,840
+So let’s go ahead and take a look.
+00:24:56,840 --> 00:25:01,840
+So let’s go to our phone first.
+00:25:01,840 --> 00:25:05,840
+You see that icon in the lower left-hand corner of the phone?
+00:25:05,840 --> 00:25:08,840
+I just push it right here, and boom, I’m in the phone.
+00:25:08,840 --> 00:25:10,840
+And I’ve got five buttons across the bottom.
+00:25:10,840 --> 00:25:13,840
+Favorites, Recents, Contacts, Keypad, and Voicemail.
+00:25:13,840 --> 00:25:15,840
+I’m in Contacts right now, again.
+00:25:15,840 --> 00:25:17,840
+How do I move around my contacts?
+00:25:17,840 --> 00:25:19,840
+I just scroll through them.
+00:25:19,840 --> 00:25:22,840
+And so, let’s say I want to make a call to Johnny Ive.
+00:25:22,840 --> 00:25:26,840
+I can just push here, and I see Johnny Ive’s contacts with all his information.
+00:25:26,840 --> 00:25:31,840
+His three phone numbers, his email, whatever else, his address, whatever else I’ve got.
+00:25:31,840 --> 00:25:33,840
+It’s all in one place.
+00:25:33,840 --> 00:25:39,840
+And if I want to call Johnny, all I do is push his phone number, and I’ll call his mobile number right now.
+00:25:39,840 --> 00:25:41,840
+And now we are calling Johnny here.
+00:25:42,840 --> 00:25:45,840
+I can turn on a speakerphone like this if I wanted to.
+00:25:45,840 --> 00:25:47,840
+Hey, Johnny, how are you doing?
+00:25:47,840 --> 00:25:49,840
+I’m good. How are you doing?
+00:25:49,840 --> 00:25:57,840
+Well, it’s been two and a half years, and I can’t tell you how thrilled I am to make the first public phone call with iPhone.
+00:25:58,840 --> 00:26:04,840
+I remember when we first started working on this, and it’s just unbelievable.
+00:26:04,840 --> 00:26:06,840
+Whoa, whoa, what is this?
+00:26:06,840 --> 00:26:07,840
+I’ve got another call coming in.
+00:26:07,840 --> 00:26:09,840
+Johnny, can I put you on hold for a minute?
+00:26:09,840 --> 00:26:10,840
+Yeah, sure.
+00:26:10,840 --> 00:26:11,840
+Okay.
+00:26:11,840 --> 00:26:15,840
+So I put Johnny on hold, and I have been on hold for two and a half years.
+00:26:15,840 --> 00:26:16,840
+And I’m ready to go.
+00:26:16,840 --> 00:26:17,840
+I’m going to go to his phone.
+00:26:24,840 --> 00:26:25,840
+Okay.
+00:26:25,840 --> 00:26:27,840
+So I put Johnny on hold.
+00:26:27,840 --> 00:26:28,840
+Hi, Phil.
+00:26:28,840 --> 00:26:29,840
+Hi, Steve.
+00:26:29,840 --> 00:26:32,840
+I wanted to be the first call.
+00:26:32,840 --> 00:26:33,840
+Sorry, Phil.
+00:26:33,840 --> 00:26:35,840
+As you can see, it’s put Johnny on hold.
+00:26:35,840 --> 00:26:38,840
+And, Phil, I can just touch Johnny and bring Johnny back.
+00:26:38,840 --> 00:26:39,840
+Hey, Johnny, are you there?
+00:26:39,840 --> 00:26:40,840
+Yeah, I’m here.
+00:26:40,840 --> 00:26:41,840
+Hey, listen, Phil called.
+00:26:41,840 --> 00:26:44,840
+Do you mind if I conference him in?
+00:26:44,840 --> 00:26:47,840
+I can’t get through.
+00:26:47,840 --> 00:26:50,840
+You can see the button has changed to merge calls right there in the middle.
+00:26:50,840 --> 00:26:52,840
+So I just pushed that right here.
+00:26:53,840 --> 00:26:55,840
+And now I’ve created a conference call.
+00:27:06,840 --> 00:27:07,840
+Johnny, are you there?
+00:27:07,840 --> 00:27:08,840
+I’m here.
+00:27:08,840 --> 00:27:09,840
+Phil, are you there?
+00:27:09,840 --> 00:27:12,840
+I’m still hanging on.
+00:27:12,840 --> 00:27:14,840
+So here we are.
+00:27:14,840 --> 00:27:16,840
+And, listen, I’ve got to get back to my keynote.
+00:27:16,840 --> 00:27:20,840
+So if I want to do that, I just touch this arrow right here.
+00:27:20,840 --> 00:27:24,840
+And I’m going to go ahead and take Johnny private here and put Phil on hold.
+00:27:24,840 --> 00:27:28,840
+Johnny, do you have anything to say on the first phone call?
+00:27:28,840 --> 00:27:31,840
+It’s not too shabby, is it?
+00:27:33,840 --> 00:27:34,840
+It’s not too shabby.
+00:27:34,840 --> 00:27:36,840
+You take care, Johnny.
+00:27:36,840 --> 00:27:37,840
+I’ll see you later.
+00:27:37,840 --> 00:27:39,840
+And I end this call, and Phil’s on hold.
+00:27:39,840 --> 00:27:40,840
+I take him off a hold.
+00:27:40,840 --> 00:27:41,840
+Phil, thanks very much.
+00:27:41,840 --> 00:27:42,840
+I’ve got to get back to the keynote now.
+00:27:42,840 --> 00:27:43,840
+All right.
+00:27:43,840 --> 00:27:44,840
+Talk to you later.
+00:27:44,840 --> 00:27:45,840
+Bye-bye.
+00:27:45,840 --> 00:27:46,840
+Bye.
+00:27:46,840 --> 00:27:47,840
+All righty.
+00:27:51,840 --> 00:28:00,840
+So now I’ve also got a way to make a list of favorites here for my most often called numbers.
+00:28:00,840 --> 00:28:03,840
+So I can just touch it once and dial the number.
+00:28:03,840 --> 00:28:05,840
+And I might want to add somebody to favorites.
+00:28:05,840 --> 00:28:06,840
+So let’s say I want to add Phil Schiller.
+00:28:06,840 --> 00:28:10,840
+I just push that plus button in the upper right-hand corner right there.
+00:28:10,840 --> 00:28:12,840
+And up pop my favorites.
+00:28:12,840 --> 00:28:15,840
+And I can just go to the S’s here.
+00:28:15,840 --> 00:28:16,840
+And there’s Phil.
+00:28:16,840 --> 00:28:18,840
+So Phil Schiller is right there.
+00:28:18,840 --> 00:28:21,840
+And I’ll put, let’s say I want to put Phil’s work number.
+00:28:21,840 --> 00:28:23,840
+And it’s added Phil right there.
+00:28:23,840 --> 00:28:24,840
+You can see the favorites.
+00:28:24,840 --> 00:28:27,840
+I can edit favorites by pushing the edit button in the upper left-hand corner.
+00:28:27,840 --> 00:28:31,840
+And I can move Phil up if I want to, you know, maybe to the top.
+00:28:31,840 --> 00:28:35,840
+And let’s say I’m not going to, you know, Todd, Tony’s changed his number.
+00:28:35,840 --> 00:28:37,840
+I’ve got to update this anyway.
+00:28:37,840 --> 00:28:38,840
+So I’m going to get rid of that.
+00:28:38,840 --> 00:28:39,840
+And I can just remove Tony.
+00:28:39,840 --> 00:28:40,840
+Boom.
+00:28:40,840 --> 00:28:41,840
+There we go.
+00:28:41,840 --> 00:28:42,840
+It’s that simple to edit these things.
+00:28:42,840 --> 00:28:43,840
+Very, very easy.
+00:28:43,840 --> 00:28:46,840
+I’ve got recents right here, which is all my recent phone calls.
+00:28:46,840 --> 00:28:48,840
+If I want to see the ones I’ve missed, which are in red,
+00:28:48,840 --> 00:28:50,840
+I can just go up and touch that button at the top.
+00:28:50,840 --> 00:28:53,840
+And, boom, those are all the ones I’ve missed.
+00:28:53,840 --> 00:28:58,840
+And those are all the calls that I’ve placed or have gotten.
+00:28:58,840 --> 00:29:03,840
+If I want to dial the phone, if I’m real last century, I can push keypad here.
+00:29:03,840 --> 00:29:07,840
+And I can dial a call just with, oops, called four.
+00:29:07,840 --> 00:29:08,840
+Sorry.
+00:29:08,840 --> 00:29:10,840
+Wrong number.
+00:29:10,840 --> 00:29:15,840
+408-996-1010.
+00:29:15,840 --> 00:29:17,840
+And it formats the numbers.
+00:29:17,840 --> 00:29:20,840
+And if I want to, I can just keep dialing.
+00:29:20,840 --> 00:29:21,840
+Let’s say it’s a European number.
+00:29:21,840 --> 00:29:23,840
+And the numbers just keep getting smaller.
+00:29:23,840 --> 00:29:25,840
+Real simple.
+00:29:25,840 --> 00:29:27,840
+Very simple to dial with a keypad.
+00:29:27,840 --> 00:29:29,840
+Now let me show you visual voicemail.
+00:29:29,840 --> 00:29:31,840
+This is so cool.
+00:29:31,840 --> 00:29:36,840
+This is a collaboration that we’ve done, which I’ll talk more about later.
+00:29:36,840 --> 00:29:42,840
+And it allows us to have random access voicemail,
+00:29:42,840 --> 00:29:43,840
+go directly to the voicemails we want.
+00:29:43,840 --> 00:29:46,840
+So as an example, I come to my voicemail, and I say, oh, there’s one by Al Gore.
+00:29:46,840 --> 00:29:47,840
+I want to hear that one.
+00:29:47,840 --> 00:29:49,840
+I just push it.
+00:29:49,840 --> 00:29:51,840
+Hi, David Tal.
+00:29:51,840 --> 00:29:52,840
+Wish I could be there today.
+00:29:52,840 --> 00:29:56,840
+I’m here in Nashville training people to give my slideshow.
+00:29:56,840 --> 00:29:59,840
+But I wanted to say congratulations on the iPhone.
+00:29:59,840 --> 00:30:01,840
+It is unbelievably cool.
+00:30:01,840 --> 00:30:03,840
+Good luck with the presentation.
+00:30:03,840 --> 00:30:05,840
+Call me later.
+00:30:05,840 --> 00:30:08,840
+Now if I want to call Al back right now, I can just push that call back button.
+00:30:08,840 --> 00:30:10,840
+But I want to listen to one from Tim Cook I’ve got here.
+00:30:10,840 --> 00:30:11,840
+So let me listen to Tim.
+00:30:11,840 --> 00:30:12,840
+Hi, David Tal.
+00:30:12,840 --> 00:30:15,840
+I’ve got the results from last quarter.
+00:30:15,840 --> 00:30:19,840
+Revenue was, you know, I’ll just wait and tell you when I see you in person.
+00:30:19,840 --> 00:30:21,840
+Good luck on the Q&A.
+00:30:21,840 --> 00:30:24,840
+See you there.
+00:30:24,840 --> 00:30:25,840
+Isn’t this awesome?
+00:30:25,840 --> 00:30:30,840
+And so I’ve got voicemail, how I want to listen to it, when I want to listen to it,
+00:30:30,840 --> 00:30:34,840
+in any order I want to listen to it with visual voicemail.
+00:30:34,840 --> 00:30:37,840
+So that is a quick tour of the phone app.
+00:30:37,840 --> 00:30:41,840
+Now what I want to do is show you SMS texting.
+00:30:41,840 --> 00:30:45,840
+So I just go to that SMS icon in the upper left-hand corner and push it.
+00:30:45,840 --> 00:30:50,840
+And I not only have SMS texting, but I have multiple sessions.
+00:30:50,840 --> 00:30:53,840
+So I can be carrying on conversations with people,
+00:30:53,840 --> 00:30:57,840
+and every time I get a new message from them, I’ll be alerted to that,
+00:30:57,840 --> 00:30:58,840
+and I can go check it out.
+00:30:58,840 --> 00:31:00,840
+So as an example here, I’ve got Eddie Q,
+00:31:00,840 --> 00:31:02,840
+and I’ve been carrying on a conversation with Eddie.
+00:31:02,840 --> 00:31:06,840
+And I just tap this, and here’s the conversation I’ve been carrying on right here.
+00:31:06,840 --> 00:31:07,840
+Right?
+00:31:07,840 --> 00:31:08,840
+And if there’s a new message, it’ll tell me.
+00:31:08,840 --> 00:31:10,840
+So there’s a new message from Phil.
+00:31:10,840 --> 00:31:11,840
+And let’s see.
+00:31:11,840 --> 00:31:12,840
+The conversation was what?
+00:31:12,840 --> 00:31:13,840
+Hey, Steve.
+00:31:13,840 --> 00:31:14,840
+Hi.
+00:31:14,840 --> 00:31:15,840
+Still on for dinner tonight?
+00:31:15,840 --> 00:31:16,840
+Absolutely.
+00:31:16,840 --> 00:31:17,840
+Your turn to pick.
+00:31:17,840 --> 00:31:18,840
+I’ve picked Sushi Ron.
+00:31:18,840 --> 00:31:19,840
+How about 7 o’clock tonight?
+00:31:19,840 --> 00:31:22,840
+And I can just say, you know, sounds great.
+00:31:22,840 --> 00:31:24,840
+And I’ve got this little keyboard, which is phenomenal.
+00:31:24,840 --> 00:31:28,840
+It does error prevention and correction.
+00:31:28,840 --> 00:31:29,840
+Not that I won’t make some.
+00:31:29,840 --> 00:31:30,840
+I probably will.
+00:31:30,840 --> 00:31:31,840
+But it’s actually really fast to type on.
+00:31:31,840 --> 00:31:34,840
+It’s faster than all these little plastic keyboards on all these smartphones.
+00:31:35,840 --> 00:31:43,840
+So I can just say, sounds great.
+00:31:43,840 --> 00:31:53,840
+See you there.
+00:31:53,840 --> 00:31:57,840
+And I can send that.
+00:31:57,840 --> 00:31:59,840
+And there it is.
+00:31:59,840 --> 00:32:00,840
+Right?
+00:32:01,840 --> 00:32:07,840
+It’s so simple.
+00:32:07,840 --> 00:32:09,840
+And when Phil messages me back, I’ll be alerted.
+00:32:09,840 --> 00:32:10,840
+I’ll see the dot.
+00:32:10,840 --> 00:32:12,840
+And I can just go pick up that conversation where it left off.
+00:32:12,840 --> 00:32:16,840
+If I want to send a message to Eddie or Scott, I just push this and send a message and go.
+00:32:16,840 --> 00:32:18,840
+It’s so simple.
+00:32:18,840 --> 00:32:19,840
+So that’s SMS messaging.
+00:32:19,840 --> 00:32:21,840
+And, you know, again, you’ve seen the keyboard.
+00:32:21,840 --> 00:32:22,840
+It’s pretty awesome.
+00:32:22,840 --> 00:32:24,840
+We’ll come back to that a little bit later.
+00:32:24,840 --> 00:32:28,840
+And the third app I want to show you as part of the phone package is Photos.
+00:32:28,840 --> 00:32:30,840
+We have a 2 megapixel camera built in, as I said.
+00:32:30,840 --> 00:32:34,840
+We also have the coolest photo management app ever.
+00:32:34,840 --> 00:32:37,840
+Certainly on a mobile device, but I think maybe ever.
+00:32:37,840 --> 00:32:39,840
+And so here’s our photos.
+00:32:39,840 --> 00:32:41,840
+I’m going to go into our photo library.
+00:32:41,840 --> 00:32:42,840
+And this is our library.
+00:32:42,840 --> 00:32:45,840
+And, again, I can just scroll through photos here with my finger.
+00:32:45,840 --> 00:32:46,840
+Pretty cool.
+00:32:46,840 --> 00:32:47,840
+Let me go to photo album.
+00:32:47,840 --> 00:32:49,840
+I’ll pick Italy.
+00:32:49,840 --> 00:32:51,840
+And I just – let’s start at the top.
+00:32:51,840 --> 00:32:54,840
+And to go through pictures, I just swipe them.
+00:32:54,840 --> 00:32:56,840
+I just swipe through my photo library.
+00:32:56,840 --> 00:32:58,840
+There’s one that’s landscape.
+00:32:58,840 --> 00:33:02,840
+I can just turn my device and take a look at it.
+00:33:02,840 --> 00:33:07,840
+Pretty cool, huh?
+00:33:07,840 --> 00:33:11,840
+So I can even swipe when I’m in landscape here.
+00:33:11,840 --> 00:33:13,840
+Isn’t this awesome?
+00:33:13,840 --> 00:33:19,840
+The other thing I can do is I can take any of these pictures and I can make them bigger.
+00:33:19,840 --> 00:33:22,840
+And so let me go ahead and get the camera back up.
+00:33:22,840 --> 00:33:23,840
+Yeah, there it is right there.
+00:33:23,840 --> 00:33:27,840
+I can just take my fingers and I can – we call it the pinch.
+00:33:27,840 --> 00:33:31,840
+I can bring them closer together and move them further apart to make it bigger or smaller.
+00:33:31,840 --> 00:33:35,840
+And so I can just move them further apart and stretch the image.
+00:33:35,840 --> 00:33:40,840
+Isn’t that cool?
+00:33:40,840 --> 00:33:42,840
+And move it around.
+00:33:42,840 --> 00:33:46,840
+Isn’t that cool?
+00:33:46,840 --> 00:33:53,840
+And now what I can do is I can pick to make this my wallpaper.
+00:33:53,840 --> 00:33:57,840
+And, of course, I could jigger it around then and just set the wallpaper.
+00:33:57,840 --> 00:34:07,840
+And now if I’m back at home and I go to sleep, when I wake up from here on out until I reset it, that’s my wallpaper.
+00:34:07,840 --> 00:34:09,840
+Whenever I’m making a call, that’s what I’m going to see.
+00:34:09,840 --> 00:34:10,840
+Boom.
+00:34:10,840 --> 00:34:12,840
+There we go.
+00:34:12,840 --> 00:34:17,840
+So photos, SMS, and the phone app.
+00:34:17,840 --> 00:34:30,840
+That is part of our phone package for iPhone.
+00:34:30,840 --> 00:34:32,840
+Get a call.
+00:34:32,840 --> 00:34:35,840
+Again, really great call management features.
+00:34:35,840 --> 00:34:38,840
+Just scroll through contacts with your finger.
+00:34:38,840 --> 00:34:41,840
+All the information at your fingertips here.
+00:34:41,840 --> 00:34:43,840
+Favorites.
+00:34:43,840 --> 00:34:45,840
+Last century.
+00:34:45,840 --> 00:34:47,840
+Visual voicemail.
+00:34:47,840 --> 00:34:50,840
+Calendar.
+00:34:50,840 --> 00:34:52,840
+SMS texting.
+00:34:52,840 --> 00:34:54,840
+Incredible photo app.
+00:34:54,840 --> 00:34:58,840
+The ability to just take any picture and make it your wallpaper.
+00:34:58,840 --> 00:35:00,840
+It’s pretty unbelievable.
+00:35:00,840 --> 00:35:06,840
+And I think when you have a chance to get your hand on it, you’ll agree, we have reinvented the phone.
+00:35:06,840 --> 00:35:11,840
+Okay.
+00:35:11,840 --> 00:35:19,840
+So now let’s take a look at an internet communications device.
+00:35:19,840 --> 00:35:21,840
+It’s part of iPhone.
+00:35:21,840 --> 00:35:23,840
+So what’s this all about?
+00:35:23,840 --> 00:35:26,840
+Well, we’ve got some real breakthroughs here.
+00:35:26,840 --> 00:35:31,840
+To start off with, we’ve got rich HTML email on iPhone.
+00:35:31,840 --> 00:35:35,840
+The first time really rich email on a mobile device.
+00:35:35,840 --> 00:35:39,840
+And it works with any IMAP or POP email service.
+00:35:39,840 --> 00:35:41,840
+You’ve got your favorite mail service.
+00:35:41,840 --> 00:35:43,840
+It’ll likely work with it.
+00:35:43,840 --> 00:35:46,840
+And it’s rich text email.
+00:35:46,840 --> 00:35:49,840
+We wanted the best web browser in the world on our phone.
+00:35:49,840 --> 00:35:52,840
+Not a baby web browser or a WAP browser.
+00:35:52,840 --> 00:35:54,840
+A real web browser.
+00:35:54,840 --> 00:35:56,840
+And we picked the best one in the world, Safari.
+00:35:56,840 --> 00:36:00,840
+And we have Safari running on iPhone.
+00:36:00,840 --> 00:36:09,840
+It is the first fully usable HTML browser on a phone.
+00:36:09,840 --> 00:36:15,840
+Third, we have Google Maps.
+00:36:15,840 --> 00:36:20,840
+Maps, satellite images, directions and traffic.
+00:36:20,840 --> 00:36:22,840
+This is unbelievable.
+00:36:22,840 --> 00:36:24,840
+Wait till you see it.
+00:36:24,840 --> 00:36:29,840
+We have widgets starting off with weather and stocks.
+00:36:29,840 --> 00:36:33,840
+And then this communicates with the Internet over edge and Wi-Fi.
+00:36:33,840 --> 00:36:36,840
+And iPhone automatically detects Wi-Fi and switches seamlessly to it.
+00:36:36,840 --> 00:36:38,840
+You don’t have to manage the network.
+00:36:38,840 --> 00:36:42,840
+It just does the right thing.
+00:36:42,840 --> 00:36:46,840
+Now, I want to take a second and talk about email.
+00:36:46,840 --> 00:36:49,840
+We hook up to almost any IMAP or POP3 mail service.
+00:36:49,840 --> 00:36:51,840
+I just want to give you some examples.
+00:36:51,840 --> 00:36:54,840
+IMAP, of course, is the best because you can keep your folders
+00:36:54,840 --> 00:36:58,840
+and all your email on the server and access it from anywhere.
+00:36:58,840 --> 00:37:01,840
+Yahoo Mail is IMAP.
+00:37:01,840 --> 00:37:04,840
+Microsoft Exchange has an IMAP option.
+00:37:04,840 --> 00:37:06,840
+And obviously, .Mac Mail is IMAP as well.
+00:37:06,840 --> 00:37:12,840
+POP3, Google Gmail, AOL Mail, and most ISPs are POP3 email.
+00:37:12,840 --> 00:37:17,840
+Now, I want to take a minute and highlight one, Yahoo Mail.
+00:37:17,840 --> 00:37:20,840
+Yahoo Mail is the biggest mail service in the world.
+00:37:20,840 --> 00:37:25,840
+They have over a quarter billion users.
+00:37:25,840 --> 00:37:27,840
+Biggest email service in the world.
+00:37:27,840 --> 00:37:31,840
+And today, we are announcing with Yahoo that they are going to provide
+00:37:31,840 --> 00:37:36,840
+free push IMAP email to all iPhone customers.
+00:37:36,840 --> 00:37:40,840
+So this isn’t just IMAP email.
+00:37:40,840 --> 00:37:42,840
+It is push IMAP email.
+00:37:42,840 --> 00:37:45,840
+So when you get a message, it will push it right out to the phone for you.
+00:37:45,840 --> 00:37:46,840
+Same as a Blackberry.
+00:37:46,840 --> 00:37:49,840
+Free IMAP push email from Yahoo.
+00:37:49,840 --> 00:37:51,840
+So we think this is a pretty big deal.
+00:37:51,840 --> 00:37:58,840
+So what I’d like to do now is I’d like to show you Mail, Safari, Google Maps,
+00:37:58,840 --> 00:38:01,840
+and widgets running on iPhone.
+00:38:01,840 --> 00:38:03,840
+So let’s go see.
+00:38:11,840 --> 00:38:13,840
+So let’s go into Mail.
+00:38:13,840 --> 00:38:15,840
+Second icon from the left on the bottom there.
+00:38:15,840 --> 00:38:18,840
+I just touch it with my finger, and boom, I’m there.
+00:38:18,840 --> 00:38:20,840
+And so I’ve got an inbox here.
+00:38:20,840 --> 00:38:25,840
+And this is, by the way, running live on Yahoo IMAP email.
+00:38:25,840 --> 00:38:28,840
+This stuff is coming off a Yahoo server somewhere up in the cloud.
+00:38:28,840 --> 00:38:32,840
+And so I can say, James Vincent here sent me an email.
+00:38:32,840 --> 00:38:36,840
+He’s a proud father.
+00:38:36,840 --> 00:38:38,840
+And there we go.
+00:38:38,840 --> 00:38:39,840
+And I can just scroll it here.
+00:38:39,840 --> 00:38:42,840
+I’ve got inline photos, rich text email.
+00:38:42,840 --> 00:38:44,840
+There we go.
+00:38:44,840 --> 00:38:45,840
+Let’s look at another one.
+00:38:45,840 --> 00:38:46,840
+Phil Schiller.
+00:38:46,840 --> 00:38:48,840
+She loved the gift.
+00:38:48,840 --> 00:38:52,840
+Again, inline photos, rich text.
+00:38:52,840 --> 00:38:55,840
+Pretty nice.
+00:38:55,840 --> 00:38:56,840
+Shopping list.
+00:38:56,840 --> 00:38:58,840
+Again, rich text right here.
+00:38:58,840 --> 00:39:02,840
+Pretty cool.
+00:39:02,840 --> 00:39:04,840
+Directions to Sushi Ron for tonight’s dinner.
+00:39:04,840 --> 00:39:07,840
+Now, iPhone, of course, parses out phone numbers.
+00:39:07,840 --> 00:39:09,840
+And as you can see, there’s a phone number in blue.
+00:39:09,840 --> 00:39:13,840
+I can just touch it, and boom, I’m going to call this place.
+00:39:13,840 --> 00:39:14,840
+All right?
+00:39:14,840 --> 00:39:17,840
+I don’t really want to call him, so I’m going to end the call here.
+00:39:17,840 --> 00:39:18,840
+You get the idea.
+00:39:18,840 --> 00:39:22,840
+And this last one, Ken Bureskin is one of our marketing folks.
+00:39:22,840 --> 00:39:23,840
+He just returned from Antarctica.
+00:39:23,840 --> 00:39:30,840
+Ken’s a great photographer, and he took all these great photos of penguins in Antarctica.
+00:39:30,840 --> 00:39:31,840
+It’s really cool.
+00:39:31,840 --> 00:39:32,840
+Look at this.
+00:39:32,840 --> 00:39:33,840
+Isn’t this great?
+00:39:33,840 --> 00:39:36,840
+Right in your email, right on your phone.
+00:39:36,840 --> 00:39:42,840
+And if I want to, by the way, I can look at my email with a split view, just like I do on my computer.
+00:39:42,840 --> 00:39:47,840
+And so I can select something here and just look at it down here if I want to peruse my messages real fast
+00:39:47,840 --> 00:39:49,840
+and just find that one message I was looking for.
+00:39:49,840 --> 00:39:51,840
+But I actually like the full screen view.
+00:39:51,840 --> 00:39:58,840
+And, of course, we have a standard inbox and drafts and all sorts of folders you can put things in as well.
+00:39:58,840 --> 00:40:03,840
+So it’s real email, just like you’re used to on your computer, right here on your phone.
+00:40:03,840 --> 00:40:06,840
+It’s extraordinary.
+00:40:06,840 --> 00:40:11,840
+And, again, free IMAP email from Yahoo.
+00:40:11,840 --> 00:40:15,840
+Now, let me go ahead and just create an email message, show you what that’s like.
+00:40:15,840 --> 00:40:17,840
+So, again, when I don’t need the keyboard, it’s not there.
+00:40:17,840 --> 00:40:19,840
+When I do, it’s there.
+00:40:19,840 --> 00:40:21,840
+I want to send a message to, let’s say, Phil.
+00:40:21,840 --> 00:40:24,840
+I just type PH, and boom, Phil Schiller.
+00:40:24,840 --> 00:40:25,840
+It’s address completion.
+00:40:25,840 --> 00:40:28,840
+And maybe I’ll send one to Scott Forestall as well.
+00:40:28,840 --> 00:40:30,840
+And there’s Scott right there.
+00:40:30,840 --> 00:40:35,840
+And let’s say the subject is dinner.
+00:40:35,840 --> 00:40:46,840
+Dinner and, you know, see you tonight.
+00:40:56,840 --> 00:40:57,840
+Boom.
+00:40:57,840 --> 00:41:00,840
+And I just send send, sends that email, and we’re done.
+00:41:00,840 --> 00:41:02,840
+So that is mail.
+00:41:02,840 --> 00:41:06,840
+Full desktop class email running on a mobile device.
+00:41:06,840 --> 00:41:09,840
+All right, now I want to show you something incredible.
+00:41:14,840 --> 00:41:17,840
+I want to show you Safari running on a mobile device.
+00:41:17,840 --> 00:41:19,840
+So let’s go to the web.
+00:41:19,840 --> 00:41:20,840
+And here we are.
+00:41:20,840 --> 00:41:27,840
+I’m going to load in, rather than Apple.com here, a little more universal site.
+00:41:27,840 --> 00:41:28,840
+I’m going to load in the New York Times.
+00:41:28,840 --> 00:41:30,840
+It’s kind of a slow site because it’s got a lot of images.
+00:41:30,840 --> 00:41:31,840
+But here we are loading it.
+00:41:31,840 --> 00:41:35,840
+We’re loading it over Wi-Fi right now.
+00:41:35,840 --> 00:41:39,840
+And rather than just give you a WAP version of the New York Times,
+00:41:39,840 --> 00:41:42,840
+rather than give you this wrapped version all around,
+00:41:42,840 --> 00:41:45,840
+we’re showing you the whole New York Times website.
+00:41:45,840 --> 00:41:46,840
+And there it is.
+00:41:46,840 --> 00:41:47,840
+And guess what I can do?
+00:41:47,840 --> 00:41:52,840
+I can just put this into landscape mode, and there it is right there.
+00:41:52,840 --> 00:41:54,840
+And I can scroll here if I want.
+00:41:54,840 --> 00:41:57,840
+Scroll up and down here.
+00:41:57,840 --> 00:41:58,840
+Boom.
+00:41:58,840 --> 00:42:00,840
+Still loading it in.
+00:42:00,840 --> 00:42:02,840
+There we go.
+00:42:02,840 --> 00:42:03,840
+Or I can just get back like this.
+00:42:03,840 --> 00:42:06,840
+Now, this is really great, and I can see the whole page,
+00:42:06,840 --> 00:42:07,840
+but, of course, I can’t read it.
+00:42:07,840 --> 00:42:08,840
+It’s a little too small.
+00:42:08,840 --> 00:42:10,840
+So I can get in with my fingers and pinch it,
+00:42:10,840 --> 00:42:12,840
+but we have an optimization here.
+00:42:12,840 --> 00:42:13,840
+I can just double tap on anything,
+00:42:13,840 --> 00:42:17,840
+and it automatically fills up the screen with it.
+00:42:17,840 --> 00:42:19,840
+And I can just scroll around like this and scroll over here,
+00:42:19,840 --> 00:42:22,840
+and I can even make this text bigger if I want to.
+00:42:22,840 --> 00:42:23,840
+And there it is.
+00:42:23,840 --> 00:42:24,840
+There it is.
+00:42:24,840 --> 00:42:36,840
+And just double tap again to get back to the full page.
+00:42:36,840 --> 00:42:37,840
+Isn’t this cool?
+00:42:37,840 --> 00:42:39,840
+And so I’m just, look at this.
+00:42:39,840 --> 00:42:41,840
+There is the New York Times.
+00:42:41,840 --> 00:42:44,840
+And, again, any article I want, boom.
+00:42:44,840 --> 00:42:49,840
+There we go.
+00:42:49,840 --> 00:42:51,840
+Boom.
+00:42:51,840 --> 00:42:52,840
+Unbelievable.
+00:42:52,840 --> 00:42:56,840
+Now, you can look at multiple webpages as well.
+00:42:56,840 --> 00:42:57,840
+You can have multiple webpages open.
+00:42:57,840 --> 00:43:00,840
+So I just push this button in the lower right-hand corner,
+00:43:00,840 --> 00:43:03,840
+shrinks it down, and I can add a new page if I want.
+00:43:03,840 --> 00:43:07,840
+And I’ll go to Amazon here out of my bookmarks.
+00:43:07,840 --> 00:43:08,840
+So let’s go to Amazon.
+00:43:08,840 --> 00:43:10,840
+And I love to go to the DVD section of Amazon
+00:43:10,840 --> 00:43:13,840
+and see what DVDs are selling.
+00:43:13,840 --> 00:43:16,840
+I like it especially when Disney’s are at the top.
+00:43:16,840 --> 00:43:18,840
+And so here’s Amazon coming in.
+00:43:18,840 --> 00:43:19,840
+Even before the whole page is loaded,
+00:43:19,840 --> 00:43:21,840
+I’m just going to double tap on this.
+00:43:21,840 --> 00:43:25,840
+And I’m going to say let’s go to the DVD section here.
+00:43:25,840 --> 00:43:34,840
+And now it’s doing that.
+00:43:34,840 --> 00:43:41,840
+And here we are.
+00:43:41,840 --> 00:43:45,840
+And there’s a section over here on the right-hand side right there.
+00:43:45,840 --> 00:43:47,840
+And these are the top sellers, updated hourly.
+00:43:47,840 --> 00:43:48,840
+Oh, look.
+00:43:48,840 --> 00:43:50,840
+Al’s An Inconvenient Truth is number one.
+00:43:50,840 --> 00:43:51,840
+All right.
+00:43:51,840 --> 00:43:53,840
+And here’s all the other movies.
+00:43:53,840 --> 00:43:55,840
+Ray’s Anatomy, I like that.
+00:43:55,840 --> 00:43:57,840
+Pirates of the Caribbean, fantastic.
+00:43:57,840 --> 00:43:59,840
+And so I’ve got this right here,
+00:43:59,840 --> 00:44:03,840
+and I can go back to the New York Times if I want.
+00:44:03,840 --> 00:44:06,840
+Let’s zoom up to that picture so we can all see it.
+00:44:06,840 --> 00:44:07,840
+And again, here.
+00:44:07,840 --> 00:44:08,840
+Isn’t this cool?
+00:44:08,840 --> 00:44:09,840
+Just over there.
+00:44:09,840 --> 00:44:11,840
+Go back to this one.
+00:44:11,840 --> 00:44:14,840
+I can get rid of them just by hitting the X.
+00:44:14,840 --> 00:44:15,840
+And there we go.
+00:44:15,840 --> 00:44:16,840
+Isn’t that incredible?
+00:44:16,840 --> 00:44:23,840
+Safari.
+00:44:23,840 --> 00:44:29,840
+Now, if you’ve ever used what’s called a web browser on a mobile phone,
+00:44:29,840 --> 00:44:31,840
+you’ll know how incredible this is.
+00:44:31,840 --> 00:44:37,840
+I hope you never really know because it’s bad out there today.
+00:44:37,840 --> 00:44:39,840
+And this is a revolution of the first order
+00:44:39,840 --> 00:44:42,840
+to really bring the real Internet to your phone.
+00:44:42,840 --> 00:44:44,840
+Let me show you some about widgets here.
+00:44:44,840 --> 00:44:46,840
+Let’s go to stocks right now,
+00:44:46,840 --> 00:44:49,840
+and we’re going to load stock information off the web.
+00:44:49,840 --> 00:44:52,840
+And just right onto the phone here.
+00:44:52,840 --> 00:44:57,840
+Oh, look, Apple’s up.
+00:44:57,840 --> 00:44:59,840
+That’s great.
+00:44:59,840 --> 00:45:02,840
+Now I can look at different graphs here if I want to.
+00:45:02,840 --> 00:45:04,840
+And that’s fantastic.
+00:45:04,840 --> 00:45:06,840
+Let’s look at the percentages here.
+00:45:06,840 --> 00:45:07,840
+Oh, good.
+00:45:07,840 --> 00:45:08,840
+Good, good.
+00:45:08,840 --> 00:45:11,840
+So I’ve got stocks right here, and I can go look at the weather.
+00:45:11,840 --> 00:45:18,840
+Let’s see what it’s like outside.
+00:45:18,840 --> 00:45:21,840
+49 degrees.
+00:45:21,840 --> 00:45:23,840
+But it’s supposed to get to 61 today, so that’s good.
+00:45:23,840 --> 00:45:25,840
+We’ll just stay in here until it warms up.
+00:45:25,840 --> 00:45:28,840
+Now, I’ve got Paris right here.
+00:45:28,840 --> 00:45:31,840
+I can have as many of these as I want, so it’s nighttime in Paris.
+00:45:31,840 --> 00:45:34,840
+It’s actually warmer in Paris at night than it is here today.
+00:45:34,840 --> 00:45:35,840
+Wow.
+00:45:35,840 --> 00:45:37,840
+Aspen.
+00:45:37,840 --> 00:45:39,840
+No snow until later in the week.
+00:45:39,840 --> 00:45:41,840
+Hawaii.
+00:45:41,840 --> 00:45:43,840
+Oh, it’s raining.
+00:45:43,840 --> 00:45:44,840
+That’s not good.
+00:45:44,840 --> 00:45:46,840
+Well, anyway, here’s four places.
+00:45:46,840 --> 00:45:48,840
+Hawaii, Aspen, Paris, and San Francisco.
+00:45:48,840 --> 00:45:51,840
+And again, the weather widget.
+00:45:51,840 --> 00:45:56,840
+Now, to conclude with the Internet device section here,
+00:45:56,840 --> 00:45:58,840
+I want to show you something truly remarkable,
+00:45:58,840 --> 00:46:02,840
+which is Google Maps on iPhone.
+00:46:02,840 --> 00:46:07,840
+I hit our Maps application here, and it’s coming up.
+00:46:07,840 --> 00:46:09,840
+And it shows us North America.
+00:46:09,840 --> 00:46:11,840
+And I’m going to go to Moscone West.
+00:46:11,840 --> 00:46:14,840
+That’s where we are right now.
+00:46:14,840 --> 00:46:15,840
+And here we are.
+00:46:15,840 --> 00:46:16,840
+Boom.
+00:46:16,840 --> 00:46:17,840
+That’s where we are.
+00:46:17,840 --> 00:46:20,840
+Now, what I’m going to do is I’m going to go look for something.
+00:46:20,840 --> 00:46:22,840
+I’m going to certainly want a cup of coffee afterwards,
+00:46:22,840 --> 00:46:28,840
+so I’m just going to look for Starbucks, right?
+00:46:28,840 --> 00:46:29,840
+Starbucks.
+00:46:29,840 --> 00:46:30,840
+So I’m going to search for Starbucks.
+00:46:30,840 --> 00:46:34,840
+And sure enough, there’s all the Starbucks.
+00:46:34,840 --> 00:46:39,840
+Now, I can get a list of Starbucks here.
+00:46:39,840 --> 00:46:41,840
+So I can pick that one if I want.
+00:46:41,840 --> 00:46:44,840
+And I can even go look at that Starbucks.
+00:46:44,840 --> 00:46:45,840
+And there it is.
+00:46:45,840 --> 00:46:49,840
+And let’s give them a call.
+00:46:50,840 --> 00:46:58,840
+Good morning.
+00:46:58,840 --> 00:46:59,840
+Starbucks.
+00:46:59,840 --> 00:47:00,840
+Can I help you?
+00:47:00,840 --> 00:47:03,840
+Yes, I’d like to order 4,000 lattes to go, please.
+00:47:03,840 --> 00:47:04,840
+No, just kidding.
+00:47:04,840 --> 00:47:05,840
+Wrong number.
+00:47:05,840 --> 00:47:06,840
+Thank you.
+00:47:06,840 --> 00:47:08,840
+Bye-bye.
+00:47:08,840 --> 00:47:15,840
+Okay.
+00:47:16,840 --> 00:47:22,840
+Now, I can zoom in by just, again, pinching if I want to.
+00:47:22,840 --> 00:47:24,840
+Or I can just double-click to zoom in.
+00:47:24,840 --> 00:47:28,840
+And I get just higher and higher resolution versions of the map.
+00:47:28,840 --> 00:47:31,840
+So let’s go somewhere else here that I’ve got bookmarked.
+00:47:31,840 --> 00:47:34,840
+And let’s go to the Washington Monument.
+00:47:34,840 --> 00:47:37,840
+And so here is Washington, D.C., and I could just double-tap.
+00:47:37,840 --> 00:47:41,840
+And I’m going in a little further here, just double-tapping in.
+00:47:41,840 --> 00:47:43,840
+And there’s the Washington Monument there.
+00:47:43,840 --> 00:47:45,840
+And I’ll double-tap in again.
+00:47:45,840 --> 00:47:47,840
+But now I want to show you something else.
+00:47:47,840 --> 00:47:48,840
+Satellite images.
+00:47:48,840 --> 00:47:51,840
+So I just hit this button called Satellite down at the bottom,
+00:47:51,840 --> 00:47:53,840
+and it’s going to replace the map with satellite images.
+00:47:53,840 --> 00:47:54,840
+There we go.
+00:47:54,840 --> 00:48:00,840
+And I can just double-tap in and double-tap in again.
+00:48:00,840 --> 00:48:02,840
+And let’s catch it up to me here.
+00:48:02,840 --> 00:48:03,840
+There we go.
+00:48:03,840 --> 00:48:08,840
+And let’s double-tap in again.
+00:48:08,840 --> 00:48:10,840
+This is the Washington Monument.
+00:48:10,840 --> 00:48:11,840
+There we go.
+00:48:11,840 --> 00:48:12,840
+Look at this.
+00:48:12,840 --> 00:48:14,840
+You can see people down there.
+00:48:14,840 --> 00:48:17,840
+Oops.
+00:48:17,840 --> 00:48:19,840
+There we go.
+00:48:19,840 --> 00:48:21,840
+Yep.
+00:48:21,840 --> 00:48:23,840
+Isn’t that incredible?
+00:48:23,840 --> 00:48:25,840
+Right on my phone.
+00:48:25,840 --> 00:48:26,840
+It’s unbelievable.
+00:48:26,840 --> 00:48:27,840
+So let’s go.
+00:48:27,840 --> 00:48:30,840
+I’ve got another one, the Eiffel Tower, which is very cool.
+00:48:30,840 --> 00:48:34,840
+I set this one to be, look at this, there’s the Eiffel Tower.
+00:48:34,840 --> 00:48:36,840
+There’s people at the Eiffel Tower, you can see.
+00:48:36,840 --> 00:48:38,840
+Look at that.
+00:48:38,840 --> 00:48:39,840
+Isn’t that incredible?
+00:48:39,840 --> 00:48:41,840
+And here’s just one last one.
+00:48:41,840 --> 00:48:46,840
+I have to show you, the Colosseum in Rome.
+00:48:46,840 --> 00:48:50,840
+So again, here we are in Rome.
+00:48:50,840 --> 00:48:51,840
+That’s as far as we can go with the map,
+00:48:51,840 --> 00:48:53,840
+but we can go a little further with the satellite.
+00:48:53,840 --> 00:48:54,840
+There’s the Colosseum.
+00:48:54,840 --> 00:48:56,840
+There’s the Roman Colosseum.
+00:48:56,840 --> 00:48:59,840
+Satellite imagery right on the phone.
+00:48:59,840 --> 00:49:02,840
+Look at that.
+00:49:02,840 --> 00:49:04,840
+That’s the Colosseum.
+00:49:04,840 --> 00:49:07,840
+Unbelievable.
+00:49:07,840 --> 00:49:08,840
+Right on our phone.
+00:49:08,840 --> 00:49:09,840
+What do you think?
+00:49:09,840 --> 00:49:11,840
+Isn’t that incredible?
+00:49:11,840 --> 00:49:18,840
+Go.
+00:49:18,840 --> 00:49:22,840
+So, all these amazing things.
+00:49:22,840 --> 00:49:27,840
+This is a breakthrough internet communicator built right into iPhone.
+00:49:27,840 --> 00:49:30,840
+The first rich HTML email on a phone.
+00:49:30,840 --> 00:49:33,840
+The first real web browser on a phone.
+00:49:33,840 --> 00:49:35,840
+Best version of Google Maps on the planet.
+00:49:36,840 --> 00:49:39,840
+Widgets, and all with edge and Wi-Fi networking.
+00:49:39,840 --> 00:49:41,840
+We’re very, very happy with this.
+00:49:41,840 --> 00:49:43,840
+Again, email.
+00:49:43,840 --> 00:49:47,840
+Push, email, IMAP, free, Yahoo,
+00:49:47,840 --> 00:49:56,840
+and almost any other IMAP and Popmail service you want to hook up to.
+00:49:56,840 --> 00:49:59,840
+Incredible new technology for entering text.
+00:49:59,840 --> 00:50:02,840
+Far better than we’ve seen on phones before.
+00:50:02,840 --> 00:50:03,840
+A real browser on the phone.
+00:50:03,840 --> 00:50:06,840
+We can see real web pages in portrait or landscape.
+00:50:06,840 --> 00:50:11,840
+We can zoom in on what we want to take a look at more closely.
+00:50:11,840 --> 00:50:16,840
+Google Maps and widgets.
+00:50:16,840 --> 00:50:21,840
+It’s the internet in your pocket for the first time ever.
+00:50:21,840 --> 00:50:25,840
+Now, you can’t really think about the internet, of course,
+00:50:25,840 --> 00:50:27,840
+without thinking about Google, right?
+00:50:27,840 --> 00:50:31,840
+And for Google, what we have on our phone, working with them,
+00:50:31,840 --> 00:50:32,840
+is, of course, Google Search.
+00:50:32,840 --> 00:50:34,840
+We have that built right into the browser.
+00:50:34,840 --> 00:50:35,840
+Just type what you want.
+00:50:35,840 --> 00:50:36,840
+Hit Google, and you’re off.
+00:50:36,840 --> 00:50:38,840
+And Google Maps.
+00:50:38,840 --> 00:50:41,840
+We’ve been working very closely with them to make this all happen.
+00:50:41,840 --> 00:50:43,840
+We’re thrilled with the results.
+00:50:43,840 --> 00:50:49,840
+And it’s my pleasure now to introduce Dr. Eric Schmidt, Google’s CEO.
+00:50:49,840 --> 00:51:00,840
+Congratulations, Steve.
+00:51:00,840 --> 00:51:08,840
+What an incredible job.
+00:51:08,840 --> 00:51:13,840
+So, Steve, you know, I’ve had the privilege of joining the board,
+00:51:13,840 --> 00:51:16,840
+and there’s a lot of relationships between the boards.
+00:51:16,840 --> 00:51:19,840
+And I thought, you know, if we just sort of merge the companies,
+00:51:19,840 --> 00:51:22,840
+we could call them Apple Goo.
+00:51:22,840 --> 00:51:26,840
+But I’m not a marketing guy.
+00:51:26,840 --> 00:51:30,840
+What I like about this new device and the new architecture of the internet
+00:51:30,840 --> 00:51:34,840
+is that you can actually merge without merging.
+00:51:34,840 --> 00:51:39,840
+Steve says that each company should do the absolutely best thing that they can do every time,
+00:51:39,840 --> 00:51:42,840
+and I think he’s shown it once again today.
+00:51:42,840 --> 00:51:48,840
+And internet architectures, right,
+00:51:48,840 --> 00:51:54,840
+internet architectures allow you now to take the enormous brain trust
+00:51:54,840 --> 00:51:57,840
+that is represented by the Apple development team
+00:51:57,840 --> 00:52:02,840
+and combine that with the open protocols and data services that companies like Google
+00:52:02,840 --> 00:52:05,840
+and the others represented that are coming up in a bit
+00:52:05,840 --> 00:52:09,840
+to actually put them together in a seamless environment for end users.
+00:52:09,840 --> 00:52:14,840
+What I particularly like about this is it’s the first time it’s all to come together in one place.
+00:52:14,840 --> 00:52:16,840
+Now, from a Google perspective,
+00:52:16,840 --> 00:52:21,840
+what we’ve done is we’ve pushed very, very hard to partner with others
+00:52:21,840 --> 00:52:23,840
+and in particular to partner with Apple.
+00:52:23,840 --> 00:52:27,840
+The companies, the cultures are similar, innovation, having fun while you’re doing it,
+00:52:27,840 --> 00:52:31,840
+and also working with many, many different data services.
+00:52:31,840 --> 00:52:35,840
+So Steve showed a little bit of some of the components,
+00:52:35,840 --> 00:52:37,840
+some of the pieces and so forth that you can do.
+00:52:37,840 --> 00:52:42,840
+But understand that this is a set of data that’s from maps and partners and so forth
+00:52:42,840 --> 00:52:45,840
+so that you really can get the full integration.
+00:52:45,840 --> 00:52:49,840
+The person doesn’t understand how hard it was to get it all together.
+00:52:49,840 --> 00:52:51,840
+It comes together seamlessly.
+00:52:51,840 --> 00:52:56,840
+From my perspective, this is the first of a whole new generation of data services
+00:52:56,840 --> 00:52:58,840
+where these powerful base cloud computers,
+00:52:58,840 --> 00:53:01,840
+Google being, we hope, a leading representative,
+00:53:01,840 --> 00:53:06,840
+provides HTML, XML, and other sophisticated services
+00:53:06,840 --> 00:53:09,840
+that the Safari browser that’s embedded in the iPhone
+00:53:09,840 --> 00:53:12,840
+and many other of its type devices and future devices out of Apple
+00:53:12,840 --> 00:53:14,840
+will be able to take advantage.
+00:53:14,840 --> 00:53:20,840
+Steve, my congratulations to you, and this product is going to be hot.
+00:53:20,840 --> 00:53:24,840
+Thanks.
+00:53:24,840 --> 00:53:33,840
+Thank you very much.
+00:53:33,840 --> 00:53:41,840
+As a board member, you’ll get one of the first ones.
+00:53:41,840 --> 00:53:42,840
+Okay.
+00:53:42,840 --> 00:53:48,840
+Now, you also can’t think about the Internet without thinking about Yahoo.
+00:53:48,840 --> 00:53:52,840
+And again, on the phone, we’ve got Yahoo search built right in.
+00:53:52,840 --> 00:53:54,840
+You can select which one you want to use.
+00:53:54,840 --> 00:53:57,840
+Just type in something, hit that Yahoo button, and boom, you’re off.
+00:53:57,840 --> 00:54:02,840
+And of course, we also have Yahoo IMAP email services.
+00:54:02,840 --> 00:54:09,840
+And so it is my great pleasure to introduce Jerry Yang, co-founder and chief Yahoo.
+00:54:09,840 --> 00:54:18,840
+Jerry.
+00:54:18,840 --> 00:54:19,840
+Congrats.
+00:54:19,840 --> 00:54:20,840
+Thank you.
+00:54:20,840 --> 00:54:22,840
+Thank you, Steve.
+00:54:22,840 --> 00:54:27,840
+I’m not a board member of Apple, but I would love to have one of these too, obviously.
+00:54:27,840 --> 00:54:28,840
+Wow.
+00:54:28,840 --> 00:54:29,840
+All this for a phone.
+00:54:29,840 --> 00:54:30,840
+Pretty incredible.
+00:54:30,840 --> 00:54:31,840
+And what a great device, Steve.
+00:54:31,840 --> 00:54:39,840
+We are really proud at Yahoo to be partnering with Apple on not only the Yahoo IMAP email, the first one we’re doing,
+00:54:39,840 --> 00:54:44,840
+but also hopefully on a whole variety of other popular services from Yahoo.
+00:54:44,840 --> 00:54:49,840
+One of the things that we’re going to be doing with Apple is also launching some of our new services that we announced this week,
+00:54:49,840 --> 00:54:54,840
+the Yahoo Go, Yahoo OneSearch, and hopefully we can get Yahoo OneSearch,
+00:54:54,840 --> 00:54:59,840
+which is one of our new products, onto this phone, which is a really innovative way of looking at search.
+00:54:59,840 --> 00:55:02,840
+You’re really able to not get the traditional web search results,
+00:55:02,840 --> 00:55:06,840
+but rather get all the things you want in a very concise format, aggregated.
+00:55:06,840 --> 00:55:14,840
+If you type in things like San Francisco, you’ll get all the local news, local weather, and local maps all in one place.
+00:55:14,840 --> 00:55:16,840
+So we’re looking forward to doing that.
+00:55:16,840 --> 00:55:19,840
+As Steve said, mail is a killer app on the phone.
+00:55:19,840 --> 00:55:24,840
+And Yahoo is really trying to redesign and re-innovate
+00:55:24,840 --> 00:55:28,840
+and reinvent the web experience and Internet experience on the mobile devices.
+00:55:28,840 --> 00:55:33,840
+So on the email, you can look forward not only to great web services like the best spam protection,
+00:55:33,840 --> 00:55:36,840
+address books, integration, and the calendar if you’re on Yahoo.
+00:55:36,840 --> 00:55:40,840
+Just think, it’s basically like having a Blackberry without the Exchange server.
+00:55:40,840 --> 00:55:44,840
+This is really going to be really great, not only having a seamless experience from your PC,
+00:55:44,840 --> 00:55:46,840
+taken to your mobile Internet.
+00:55:46,840 --> 00:55:48,840
+Yeah, there’s some clapping out there. I can hear that.
+00:55:48,840 --> 00:55:54,840
+Lastly, we want to be able to really take what Apple is doing on the phone
+00:55:54,840 --> 00:55:58,840
+by reinventing the phone and reinventing the device.
+00:55:58,840 --> 00:56:00,840
+We want to be able to do that on the Internet.
+00:56:00,840 --> 00:56:08,840
+And what we’re doing is really being able to take great form factors, great user experiences, and great UI
+00:56:08,840 --> 00:56:13,840
+that we’re taking from not only the web but also in the back-end services
+00:56:13,840 --> 00:56:15,840
+and translate them into a seamless web experience.
+00:56:15,840 --> 00:56:18,840
+So we’re big believers in great hardware and great software.
+00:56:18,840 --> 00:56:23,840
+And we’re big believers in taking the web services and Web 2.0 model and taking it to the device world.
+00:56:23,840 --> 00:56:27,840
+So, Steve, my address, you got it all.
+00:56:27,840 --> 00:56:29,840
+Please send it to me. Thanks again.
+00:56:29,840 --> 00:56:31,840
+Great to be your partner. Thank you.
+00:56:31,840 --> 00:56:49,840
+You know, it’s been great having the two greatest companies on the web right down the block, Google and Yahoo.
+00:56:49,840 --> 00:56:51,840
+And we’ve been able to work with these guys really closely.
+00:56:51,840 --> 00:56:57,840
+And it’s been an incredible pleasure to work on this great technology and bring it to everybody in iPhone.
+00:56:57,840 --> 00:56:59,840
+So thank you guys so much.
+00:56:59,840 --> 00:57:06,840
+You’ve really helped us put the Internet in your pocket.
+00:57:06,840 --> 00:57:15,840
+So, Internet communicator, an iPod, and a phone.
+00:57:15,840 --> 00:57:19,840
+Put them all together and see what you can do in a real-life scenario.
+00:57:19,840 --> 00:57:23,840
+So, let’s take a look.
+00:57:23,840 --> 00:57:29,840
+I want to listen to some music, so I’m going to go into my iPod here.
+00:57:29,840 --> 00:57:38,840
+And let’s see, in Artists, I want to listen to, oh, maybe Red Hot Chili Peppers.
+00:57:38,840 --> 00:57:39,840
+I love those guys.
+00:57:39,840 --> 00:57:42,840
+And so I’m listening to a song of theirs.
+00:57:42,840 --> 00:57:50,840
+And let’s see what happens when I get a phone call.
+00:57:50,840 --> 00:57:54,840
+Music fades out.
+00:57:54,840 --> 00:57:56,840
+Screen changes.
+00:57:56,840 --> 00:57:58,840
+I’ve got a phone call coming in.
+00:57:58,840 --> 00:58:03,840
+So I can ignore it, but I think I’m going to answer it.
+00:58:03,840 --> 00:58:05,840
+So I’ll answer it.
+00:58:05,840 --> 00:58:06,840
+Howdy.
+00:58:06,840 --> 00:58:07,840
+Hi, Phil.
+00:58:08,840 --> 00:58:10,840
+Now, notice who Phil is because he’s in my address book,
+00:58:10,840 --> 00:58:13,840
+so it puts his little picture up here and everything up there.
+00:58:13,840 --> 00:58:14,840
+Hi, Phil.
+00:58:14,840 --> 00:58:15,840
+Listen, I’m kind of busy right now.
+00:58:15,840 --> 00:58:16,840
+What can I do for you?
+00:58:24,840 --> 00:58:25,840
+Okay.
+00:58:25,840 --> 00:58:26,840
+Hold on just a sec.
+00:58:26,840 --> 00:58:30,840
+So I push the Home button here down at the bottom, and I go home right here.
+00:58:30,840 --> 00:58:31,840
+And I’m still on the call.
+00:58:31,840 --> 00:58:35,840
+You can see the phone thing flashing right there on the lower left.
+00:58:35,840 --> 00:58:38,840
+And I go into Photos, and now I’m in Photos.
+00:58:38,840 --> 00:58:40,840
+And, again, you can see the bar across the top, the green bar.
+00:58:40,840 --> 00:58:42,840
+I can just touch that to return to the call.
+00:58:42,840 --> 00:58:46,840
+And Phil wants a photo that he wanted to use it for his screensaver.
+00:58:46,840 --> 00:58:48,840
+It was one of the ones that was taken in Hawaii.
+00:58:48,840 --> 00:58:49,840
+I think it was this one.
+00:58:49,840 --> 00:58:50,840
+Yep, there it is.
+00:58:50,840 --> 00:58:52,840
+So you want me to mail this to you, Phil?
+00:58:52,840 --> 00:58:53,840
+That would be great.
+00:58:53,840 --> 00:58:54,840
+All right.
+00:58:54,840 --> 00:58:56,840
+So, again, I just go down here and push this button.
+00:58:56,840 --> 00:58:59,840
+And rather than use it as wallpaper, I’m going to e-mail it.
+00:58:59,840 --> 00:59:01,840
+And so watch what happens now.
+00:59:01,840 --> 00:59:02,840
+It shrinks it a little bit,
+00:59:02,840 --> 00:59:07,840
+and then a compose window will come up right behind it.
+00:59:07,840 --> 00:59:08,840
+There we go.
+00:59:08,840 --> 00:59:12,840
+And I will just tap in the To field and send this to Phil here.
+00:59:12,840 --> 00:59:14,840
+Phil Schiller, there we go.
+00:59:14,840 --> 00:59:15,840
+And the e-mail’s there.
+00:59:15,840 --> 00:59:16,840
+Yep, it’s there.
+00:59:16,840 --> 00:59:18,840
+And I’m just going to send it.
+00:59:18,840 --> 00:59:21,840
+Hey, Phil, that should be on its way right now.
+00:59:21,840 --> 00:59:22,840
+Okay, thanks.
+00:59:22,840 --> 00:59:23,840
+Yep.
+00:59:23,840 --> 00:59:24,840
+Anything else?
+00:59:24,840 --> 00:59:27,840
+Yeah, I was kind of hoping if you’re done soon that we could not only get some dinner,
+00:59:27,840 --> 00:59:29,840
+but maybe catch a movie tonight.
+00:59:29,840 --> 00:59:31,840
+Is there anything you want to see?
+00:59:31,840 --> 00:59:32,840
+Let me go check it out.
+00:59:32,840 --> 00:59:36,840
+I think I’ve got Fandango in my bookmarks here.
+00:59:36,840 --> 00:59:38,840
+And, yes, I do.
+00:59:38,840 --> 00:59:40,840
+Let’s go to Fandango.
+00:59:40,840 --> 00:59:42,840
+Figure out what movies are playing.
+00:59:42,840 --> 00:59:44,840
+There’s nothing personal here.
+00:59:44,840 --> 00:59:46,840
+We’ve got to go catch a movie.
+00:59:46,840 --> 00:59:48,840
+Don’t want to read too much into it.
+00:59:50,840 --> 00:59:52,840
+Okay, here’s Fandango.
+00:59:52,840 --> 00:59:53,840
+Let’s just double tap.
+00:59:53,840 --> 00:59:55,840
+And here’s the movies playing.
+00:59:55,840 --> 00:59:56,840
+Yep.
+00:59:56,840 --> 00:59:58,840
+How about we go see Night at the Museum?
+00:59:58,840 --> 00:59:59,840
+I haven’t seen that yet.
+00:59:59,840 --> 01:00:00,840
+Oh, I haven’t either.
+01:00:00,840 --> 01:00:01,840
+Great.
+01:00:02,840 --> 01:00:03,840
+All right.
+01:00:03,840 --> 01:00:04,840
+Hey, take care, Phil.
+01:00:04,840 --> 01:00:07,840
+Now, what I’m going to do is to go back to my call, I just touch the top here.
+01:00:07,840 --> 01:00:11,840
+And I’m back at my call, and I’m just going to go ahead and end the call.
+01:00:11,840 --> 01:00:13,840
+And what happens now?
+01:00:15,840 --> 01:00:17,840
+Back in my music.
+01:00:17,840 --> 01:00:35,840
+So, this is what it’s like when you put it all together.
+01:00:35,840 --> 01:00:37,840
+iPhone.
+01:00:37,840 --> 01:00:41,840
+Today, Apple is reinventing the phone.
+01:00:41,840 --> 01:00:43,840
+Now, how does this stack up?
+01:00:43,840 --> 01:00:46,840
+Let’s go back to these guys.
+01:00:46,840 --> 01:00:47,840
+Let’s take a look.
+01:00:47,840 --> 01:00:51,840
+Well, these are their home screens.
+01:00:51,840 --> 01:00:55,840
+And, again, as you recall, this is iPhone’s home screen.
+01:00:57,840 --> 01:01:00,840
+This is what their contacts look like.
+01:01:00,840 --> 01:01:03,840
+This is what iPhone’s contacts look like.
+01:01:03,840 --> 01:01:06,840
+And, again, you just pick one, and you see everything about that person,
+01:01:06,840 --> 01:01:08,840
+all the information you have.
+01:01:08,840 --> 01:01:12,840
+This is what mail looks like on these smartphones.
+01:01:12,840 --> 01:01:15,840
+Again, this is what mail looks like on iPhone.
+01:01:15,840 --> 01:01:19,840
+You have rich HTML, rich text email.
+01:01:19,840 --> 01:01:22,840
+This is what calendars look like on these guys.
+01:01:22,840 --> 01:01:25,840
+This is what calendars look like on iPhone.
+01:01:25,840 --> 01:01:27,840
+This is what the web looks like.
+01:01:27,840 --> 01:01:29,840
+And we tried to make it look as good as we could on these.
+01:01:29,840 --> 01:01:31,840
+It usually looks worse.
+01:01:31,840 --> 01:01:32,840
+And this is what you get.
+01:01:32,840 --> 01:01:36,840
+And, of course, this is what you get on iPhone.
+01:01:36,840 --> 01:01:38,840
+And you can zoom in and see anything you want.
+01:01:38,840 --> 01:01:43,840
+And this is what you get for music players.
+01:01:43,840 --> 01:01:46,840
+Nobody really uses them much.
+01:01:46,840 --> 01:01:49,840
+And this is what you get on iPhone.
+01:01:49,840 --> 01:01:57,840
+So, after today, I don’t think anyone’s going to look at these phones quite the same way again.
+01:01:57,840 --> 01:02:01,840
+Now, let me tell you about some accessories we’ve got for iPhone.
+01:02:01,840 --> 01:02:04,840
+We’ve got some great stereo headphones we’re going to be shipping.
+01:02:04,840 --> 01:02:09,840
+And they’ve got a little addition to them, which is this little thing right over here.
+01:02:09,840 --> 01:02:11,840
+It’s a microphone and a switch.
+01:02:11,840 --> 01:02:12,840
+So you can talk.
+01:02:12,840 --> 01:02:13,840
+You have them in there.
+01:02:13,840 --> 01:02:14,840
+You can get a call and just talk.
+01:02:14,840 --> 01:02:16,840
+They have beautiful reception on the microphone.
+01:02:16,840 --> 01:02:20,840
+And just push it together to answer a call or hang up on a call.
+01:02:20,840 --> 01:02:26,840
+And so you can be wearing them and it just dangles right there and picks up your voice beautifully.
+01:02:26,840 --> 01:02:30,840
+And we also have a Bluetooth accessory headset that we’re going to be shipping.
+01:02:30,840 --> 01:02:31,840
+And there it is right there.
+01:02:31,840 --> 01:02:34,840
+It’s incredibly small.
+01:02:34,840 --> 01:02:39,840
+And just to let you see what it looks like, it’s got one button on the top for answering and hanging up a phone call.
+01:02:39,840 --> 01:02:40,840
+You never have to turn it off or on.
+01:02:40,840 --> 01:02:41,840
+It just goes to sleep.
+01:02:41,840 --> 01:02:44,840
+It automatically pairs with iPhones so you don’t have to worry about pairing.
+01:02:44,840 --> 01:02:46,840
+It’s really simple.
+01:02:46,840 --> 01:02:48,840
+And it’s very tiny.
+01:02:48,840 --> 01:02:50,840
+This is what it looks like in here.
+01:02:50,840 --> 01:02:51,840
+It’s just beautiful.
+01:02:51,840 --> 01:02:53,840
+It’s the coolest one that we’ve ever seen.
+01:02:53,840 --> 01:02:56,840
+So Bluetooth headset coming as well.
+01:02:56,840 --> 01:02:58,840
+Battery life.
+01:02:58,840 --> 01:03:00,840
+There’s a lot of stuff.
+01:03:00,840 --> 01:03:04,840
+A lot of these phones, a lot of these smartphones have pretty low battery lives.
+01:03:04,840 --> 01:03:11,840
+We’ve managed to get five hours of battery and that’s for talk time or video or browsing.
+01:03:11,840 --> 01:03:13,840
+Five hours of battery life.
+01:03:13,840 --> 01:03:17,840
+And 16 hours of audio playback.
+01:03:17,840 --> 01:03:23,840
+So that’s dramatically better than any of these smartphones.
+01:03:23,840 --> 01:03:29,840
+There’s a tremendous amount of high technology in iPhone.
+01:03:29,840 --> 01:03:34,840
+We’ve been pushing the state of the art in every facet of this design.
+01:03:34,840 --> 01:03:37,840
+So let me just talk a little bit about it here.
+01:03:37,840 --> 01:03:41,840
+We’ve got the multi-touch screen, a first.
+01:03:41,840 --> 01:03:44,840
+Miniaturization, more than we’ve ever done before.
+01:03:44,840 --> 01:03:48,840
+A lot of custom silicon.
+01:03:48,840 --> 01:03:51,840
+Tremendous power management.
+01:03:51,840 --> 01:03:55,840
+OS 10 inside a mobile device.
+01:03:55,840 --> 01:03:58,840
+Featherweight precision enclosures.
+01:03:58,840 --> 01:04:01,840
+Three advanced sensors.
+01:04:01,840 --> 01:04:04,840
+Desktop class applications.
+01:04:04,840 --> 01:04:09,840
+And of course the widescreen video iPod.
+01:04:09,840 --> 01:04:13,840
+We’ve been innovating like crazy for the last few years on this.
+01:04:13,840 --> 01:04:17,840
+And we filed for over 200 patents for all the inventions in iPhone.
+01:04:17,840 --> 01:04:19,840
+And we intend to protect them.
+01:04:19,840 --> 01:04:26,840
+So a lot of high technology.
+01:04:26,840 --> 01:04:31,840
+I think we’re advancing the state of the art in every aspect of this design.
+01:04:31,840 --> 01:04:35,840
+So iPhone is like having your life in your pocket.
+01:04:35,840 --> 01:04:39,840
+It’s the ultimate digital device.
+01:04:39,840 --> 01:04:43,840
+So what should we price it at?
+01:04:43,840 --> 01:04:46,840
+Well, what do these things normally cost?
+01:04:46,840 --> 01:04:53,840
+An iPod, the most popular iPod, $199 for 4 gig nano.
+01:04:53,840 --> 01:04:54,840
+What’s a smartphone cost?
+01:04:54,840 --> 01:05:00,840
+Well, they say you get the phone and some of the Internet with it, although that’s questionable.
+01:05:00,840 --> 01:05:03,840
+But they cost somewhere between around $299.
+01:05:03,840 --> 01:05:05,840
+You can get them for $199.
+01:05:05,840 --> 01:05:08,840
+Palm just introduced a new one at $399 yesterday.
+01:05:08,840 --> 01:05:12,840
+So generally average about $299 with a two-year contract.
+01:05:12,840 --> 01:05:16,840
+Now, these phones sort of do music, but nobody uses them for music because they’re not very good.
+01:05:16,840 --> 01:05:19,840
+And so they end up buying an iPod to go with the phone.
+01:05:19,840 --> 01:05:21,840
+We know. We sell the iPod.
+01:05:21,840 --> 01:05:26,840
+And so people spend $499 on this combination.
+01:05:26,840 --> 01:05:30,840
+What should we charge for iPhone?
+01:05:30,840 --> 01:05:33,840
+Because iPhone’s got a lot more than this stuff, right?
+01:05:33,840 --> 01:05:36,840
+It’s got video, real video.
+01:05:36,840 --> 01:05:40,840
+It’s got this beautiful, gorgeous wide screen.
+01:05:40,840 --> 01:05:43,840
+It’s got multi-touch user interface.
+01:05:43,840 --> 01:05:45,840
+It’s got Wi-Fi.
+01:05:45,840 --> 01:05:48,840
+It’s got a real browser.
+01:05:48,840 --> 01:05:50,840
+It’s got HTML email.
+01:05:50,840 --> 01:05:52,840
+It’s got cover flow and on and on and on.
+01:05:52,840 --> 01:05:55,840
+And this stuff would normally cost hundreds of dollars.
+01:05:55,840 --> 01:06:00,840
+So how much more than $499 should we price iPhone?
+01:06:00,840 --> 01:06:06,840
+Well, we thought long and hard about it because iPhone just does so much stuff.
+01:06:06,840 --> 01:06:11,840
+So much better experience on a call and managing your contacts and visual voicemail,
+01:06:11,840 --> 01:06:14,840
+random access voicemail for the first time,
+01:06:14,840 --> 01:06:19,840
+texting and email and real browser and Google Maps
+01:06:19,840 --> 01:06:25,840
+and tremendous iPod and cover flow and video.
+01:06:25,840 --> 01:06:27,840
+What should we price this thing at?
+01:06:27,840 --> 01:06:33,840
+Well, for 4 gigabyte model, we’re going to price it at that same $499.
+01:06:33,840 --> 01:06:35,840
+No premium whatsoever.
+01:06:35,840 --> 01:06:38,840
+$499.
+01:06:38,840 --> 01:06:43,840
+And we’re going to have an 8 gigabyte model for just $599.
+01:06:44,840 --> 01:06:48,840
+So we’re going to price it starting at $499.
+01:06:48,840 --> 01:06:51,840
+Now, when’s it going to be available?
+01:06:51,840 --> 01:06:54,840
+We’re going to be shipping these in June.
+01:06:54,840 --> 01:06:56,840
+Yeah, June.
+01:06:56,840 --> 01:06:59,840
+We’re announcing it today because with products like this,
+01:06:59,840 --> 01:07:03,840
+we got to go and get FCC approval, which takes a few months.
+01:07:03,840 --> 01:07:05,840
+And we thought it’d be better if we introduced this
+01:07:05,840 --> 01:07:08,840
+rather than ask the FCC to introduce it for us.
+01:07:08,840 --> 01:07:12,840
+So here we are, and we’re going to be shipping it in June in the U.S.
+01:07:12,840 --> 01:07:16,840
+We’re going to Europe, hopefully by the fourth calendar quarter of this year,
+01:07:16,840 --> 01:07:19,840
+and Asia in 2008.
+01:07:19,840 --> 01:07:23,840
+So June, in just a few months, we’ll be shipping in the U.S.
+01:07:23,840 --> 01:07:27,840
+And when we do, our partner is going to be Singular.
+01:07:27,840 --> 01:07:29,840
+We’ve chosen Singular.
+01:07:29,840 --> 01:07:36,840
+They are the best and most popular network in the country,
+01:07:36,840 --> 01:07:38,840
+58 million subscribers.
+01:07:38,840 --> 01:07:40,840
+They are number one.
+01:07:40,840 --> 01:07:43,840
+They are our exclusive partner in the U.S.
+01:07:43,840 --> 01:07:45,840
+Now, it’s a unique partnership, though.
+01:07:45,840 --> 01:07:49,840
+We’re not just going to be selling phones and services together.
+01:07:49,840 --> 01:07:51,840
+We’re going to be doing innovation together.
+01:07:51,840 --> 01:07:55,840
+We worked with Singular on visual voicemail
+01:07:55,840 --> 01:08:00,840
+because it’s an innovation that requires both innovation on the phone and in the network.
+01:08:00,840 --> 01:08:02,840
+You can’t do it in just one place.
+01:08:02,840 --> 01:08:04,840
+You have to do it in both places and collaborate.
+01:08:04,840 --> 01:08:07,840
+And so visual voicemail is the first fruit of this collaboration,
+01:08:07,840 --> 01:08:09,840
+and you will see more.
+01:08:09,840 --> 01:08:11,840
+And when we start shipping in June,
+01:08:11,840 --> 01:08:16,840
+we’ll be selling iPhone through our own stores and through Singular stores.
+01:08:16,840 --> 01:08:23,840
+And it’s my pleasure to introduce the CEO of Singular, Stan Sigmund.
+01:08:23,840 --> 01:08:37,840
+Congratulations, my friend.
+01:08:37,840 --> 01:08:38,840
+Thank you.
+01:08:38,840 --> 01:08:39,840
+Welcome, Stan.
+01:08:39,840 --> 01:08:40,840
+Thank you.
+01:08:41,840 --> 01:08:45,840
+You know, Steve and I first met about two years ago in New York City
+01:08:45,840 --> 01:08:49,840
+when he shared with me this vision that he had for this product.
+01:08:49,840 --> 01:08:52,840
+And we’ve been working on it for some time.
+01:08:52,840 --> 01:08:58,840
+It actually entered into a contractual agreement without us ever seeing the device or the phone.
+01:08:58,840 --> 01:09:04,840
+And that was because of the confidence that I have in Steve and his leadership team
+01:09:04,840 --> 01:09:07,840
+to deliver on the vision that they have.
+01:09:07,840 --> 01:09:10,840
+And every time I see this, it’s just wow.
+01:09:10,840 --> 01:09:11,840
+It’s just wow.
+01:09:11,840 --> 01:09:13,840
+It’s really, really cool.
+01:09:13,840 --> 01:09:23,840
+You’ve exceeded my expectations.
+01:09:23,840 --> 01:09:28,840
+It’s a real honor for Singular to be partnering with Apple today.
+01:09:28,840 --> 01:09:32,840
+And I’ve brought with me another company to celebrate in this.
+01:09:32,840 --> 01:09:34,840
+And it’s a pretty big company.
+01:09:34,840 --> 01:09:37,840
+It’s the new AT&T.
+01:09:37,840 --> 01:09:46,840
+You know, 11 days ago, Singular became a full part of the new AT&T family.
+01:09:46,840 --> 01:09:54,840
+And this new family will help fulfill the vision we have of wireline, wireless, broadband,
+01:09:54,840 --> 01:10:03,840
+and video coming together on one device in the ways that customers haven’t imagined.
+01:10:03,840 --> 01:10:08,840
+Today, Singular and Apple are truly raising the bar.
+01:10:08,840 --> 01:10:16,840
+We’re announcing a partnership that takes the mobile phone experience to a real new level
+01:10:16,840 --> 01:10:22,840
+by bringing together the best network with the best device.
+01:10:22,840 --> 01:10:27,840
+Networks are the foundation of what Singular and AT&T do.
+01:10:27,840 --> 01:10:34,840
+Singular offers the largest digital and voice data network in America today.
+01:10:34,840 --> 01:10:38,840
+The Singular network has the fewest dropped calls in this country.
+01:10:38,840 --> 01:10:46,840
+And AT&T is the largest provider of broadband Internet services in this community.
+01:10:46,840 --> 01:10:50,840
+When it comes to networks, AT&T wrote the book.
+01:10:50,840 --> 01:10:53,840
+Their quality is legendary.
+01:10:54,840 --> 01:11:00,840
+Put this network experience that Singular and AT&T have and Apple products together,
+01:11:00,840 --> 01:11:02,840
+and what do you get?
+01:11:02,840 --> 01:11:10,840
+First, you get the best voice and data services with the best user experience available anywhere.
+01:11:10,840 --> 01:11:16,840
+Second, you get real, compelling products and services.
+01:11:16,840 --> 01:11:20,840
+For example, there’s a visual voicemail that Steve mentioned,
+01:11:20,840 --> 01:11:25,840
+which lets you look at the voice message you want to hear and when you want to hear it.
+01:11:25,840 --> 01:11:28,840
+As Steve mentioned, to create the visual voicemail,
+01:11:28,840 --> 01:11:36,840
+it took innovation on Singular’s part at the network level and by Apple with the device.
+01:11:36,840 --> 01:11:40,840
+And I promise you’ll see more of that coming down the road.
+01:11:40,840 --> 01:11:46,840
+Third, when you combine Singular’s 2,100 retail stores
+01:11:46,840 --> 01:11:54,840
+and number one wireless online store with Apple’s already legendary retail stores and online stores,
+01:11:54,840 --> 01:11:58,840
+you’ve got unmatched distribution.
+01:11:58,840 --> 01:12:07,840
+Yes, we’re truly pleased to partner with Apple to deliver one of the most eagerly awaited wireless products ever,
+01:12:07,840 --> 01:12:10,840
+the iPhone that he showed you.
+01:12:10,840 --> 01:12:15,840
+With the iPhone, you get a breakthrough wireless experience.
+01:12:15,840 --> 01:12:19,840
+And we’ll be working shoulder to shoulder with Steve and his team
+01:12:19,840 --> 01:12:26,840
+to make sure that the integration of the iPhone and our network is seamless.
+01:12:26,840 --> 01:12:28,840
+This is only the beginning.
+01:12:28,840 --> 01:12:32,840
+We are just introducing a new product.
+01:12:32,840 --> 01:12:37,840
+We are changing the way companies work together.
+01:12:37,840 --> 01:12:43,840
+Apple and Singular have a multiyear exclusive partnership.
+01:12:43,840 --> 01:12:49,840
+The new iPhone is only available with Singular wireless services.
+01:12:49,840 --> 01:12:52,840
+This is not an MVNO.
+01:12:52,840 --> 01:13:01,840
+Ours is a unique relationship that lets Apple be Apple and Singular be Singular.
+01:13:01,840 --> 01:13:11,840
+Apple has built a device combining the best phone, iPod, and mobile Internet experience ever.
+01:13:11,840 --> 01:13:16,840
+Our iPhone owners will be Singular and AT&T customers.
+01:13:16,840 --> 01:13:22,840
+Our customers will get the best network and services in the business.
+01:13:22,840 --> 01:13:31,840
+People will benefit from the best that companies, they already know and trust in what they have to offer.
+01:13:31,840 --> 01:13:39,840
+Apple, Singular, and AT&T have come a long ways, and now we’re picking up the pace.
+01:13:39,840 --> 01:13:45,840
+Just over six years ago, BellSouth and AT&T came together to form Singular.
+01:13:45,840 --> 01:13:50,840
+Eleven days, Singular joined the new AT&T.
+01:13:50,840 --> 01:13:56,840
+Today, Singular and AT&T are working together to provide our customers
+01:13:56,840 --> 01:14:02,840
+the most innovative, enjoyable, and reliable service in the industry.
+01:14:02,840 --> 01:14:08,840
+I hope you’re as excited as we are as what we have to see and enjoy here.
+01:14:08,840 --> 01:14:10,840
+This is going to be a terrific ride.
+01:14:10,840 --> 01:14:13,840
+Thank you very much, Steve, and congratulations.
+01:14:13,840 --> 01:14:27,840
+Thank you.
+01:14:27,840 --> 01:14:31,840
+You know, as Stan said, we started working together about two years ago,
+01:14:31,840 --> 01:14:35,840
+and we come from pretty different worlds, the telecommunications industry,
+01:14:35,840 --> 01:14:38,840
+the computer industry, and, of course, music with the iPod,
+01:14:38,840 --> 01:14:43,840
+and yet we have worked wonderfully together, and we love these guys,
+01:14:43,840 --> 01:14:47,840
+and we think we’re going to bring some great stuff to market over the years together.
+01:14:47,840 --> 01:14:57,840
+So let’s take a look at this market and how big it is.
+01:14:57,840 --> 01:15:02,840
+My clicker’s not working.
+01:15:02,840 --> 01:15:04,840
+Oh, there it is. Maybe it is working.
+01:15:04,840 --> 01:15:06,840
+So how big is this market?
+01:15:06,840 --> 01:15:17,840
+Well, let’s take a look.
+01:15:17,840 --> 01:15:21,840
+Clicker is not working.
+01:15:21,840 --> 01:15:34,840
+They’re scrambling backstage right now.
+01:15:34,840 --> 01:15:42,840
+You know, when I was in high school, Steve Wozniak and I, mostly Steve,
+01:15:42,840 --> 01:15:46,840
+made this little device called a TV jammer,
+01:15:46,840 --> 01:15:50,840
+and it was this little oscillator that would put out frequencies that would screw up the TV,
+01:15:50,840 --> 01:15:55,840
+and Woz would have it in his pocket, and we’d go into, like, a dorm at Berkeley where he was going to school,
+01:15:55,840 --> 01:15:57,840
+and a bunch of folks would be watching, like, Star Trek,
+01:15:57,840 --> 01:16:00,840
+and he’d screw up the TV, and somebody would go up to fix it,
+01:16:00,840 --> 01:16:04,840
+and just as they had their foot off the ground, he’d turn it back on.
+01:16:04,840 --> 01:16:07,840
+And if they put their foot back on the ground, he’d screw up the TV again.
+01:16:07,840 --> 01:16:13,840
+And within five minutes, he’d have somebody like this for the rest of the Star Trek episode.
+01:16:13,840 --> 01:16:16,840
+Okay, so maybe it’s working now. Maybe they’re going to have to click them for me.
+01:16:16,840 --> 01:16:22,840
+So game consoles, 26 million game consoles were sold in 2006 worldwide.
+01:16:22,840 --> 01:16:25,840
+Actually, a little smaller than you’d think. It’s not such a big market.
+01:16:25,840 --> 01:16:29,840
+Digital cameras dwarfed it at 94 million.
+01:16:29,840 --> 01:16:36,840
+MP3 players, 135 million, and PCs, about 209.
+01:16:36,840 --> 01:16:42,840
+Mobile phones, just about a billion last year worldwide.
+01:16:42,840 --> 01:16:44,840
+So what does this tell you?
+01:16:44,840 --> 01:16:50,840
+What this tells you is that 1% market share equals 10 million units.
+01:16:50,840 --> 01:16:52,840
+This is a giant market.
+01:16:52,840 --> 01:16:57,840
+If you just 1% market share, you’re going to sell 10 million phones.
+01:16:57,840 --> 01:17:03,840
+And this is exactly what we’re going to try to do in 2008, our first full year in the market,
+01:17:03,840 --> 01:17:05,840
+is grab 1% market share and go from there.
+01:17:05,840 --> 01:17:09,840
+So we’re going to enter a very competitive market, a lot of players.
+01:17:09,840 --> 01:17:12,840
+We think we’re going to have the best product in the world,
+01:17:12,840 --> 01:17:15,840
+and we’re going to go for it and see if we can get 1% market share,
+01:17:15,840 --> 01:17:18,840
+10 million units in 2008, and go from there.
+01:17:18,840 --> 01:17:32,840
+So today we’ve added to the Mac and the iPod, we’ve added Apple TV, and now iPhone.
+01:17:32,840 --> 01:17:40,840
+And you know, the Mac is the only one that you really think of as a computer, right?
+01:17:41,840 --> 01:17:45,840
+And so we thought about this and we thought, you know,
+01:17:45,840 --> 01:17:48,840
+maybe our name should reflect this a little bit more than it does.
+01:17:48,840 --> 01:17:52,840
+So we’re announcing today we’re dropping the computer from our name,
+01:17:52,840 --> 01:17:56,840
+and from this day forward we’re going to be known as Apple Incorporated
+01:17:56,840 --> 01:17:58,840
+to reflect the product mix that we have today.
+01:17:59,840 --> 01:18:12,840
+You know, I didn’t sleep a wink last night, and I was so excited about today
+01:18:12,840 --> 01:18:15,840
+because we’ve been so lucky at Apple.
+01:18:15,840 --> 01:18:18,840
+We’ve had some real revolutionary products.
+01:18:18,840 --> 01:18:23,840
+The Mac in 1984 is an experience that those of us that were there will never forget,
+01:18:23,840 --> 01:18:26,840
+and I don’t think the world will forget it either.
+01:18:26,840 --> 01:18:31,840
+The iPod in 2001 changed everything about music,
+01:18:31,840 --> 01:18:35,840
+and we’re going to do it again with the iPhone in 2007.
+01:18:35,840 --> 01:18:38,840
+We’re very excited about this.
+01:18:44,840 --> 01:18:47,840
+There’s an old Wayne Gretzky quote that I love.
+01:18:47,840 --> 01:18:51,840
+I skate to where the puck is going to be, not where it has been.
+01:18:52,840 --> 01:18:58,840
+And we’ve always tried to do that at Apple since the very, very beginning,
+01:18:58,840 --> 01:19:01,840
+and we always will.
+01:19:01,840 --> 01:19:05,840
+So thank you very, very much for being a part of this.

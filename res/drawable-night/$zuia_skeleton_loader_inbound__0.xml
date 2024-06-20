@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="skeleton" android:height="148.0dip" android:width="264.0dip" android:viewportWidth="264.0" android:viewportHeight="148.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <clip-path android:name="mask" android:pathData="M 0 0 L 264 0 L 264 148 L 0 148 Z" />
+    <group android:name="gradient_group" android:pivotX="750.0" android:pivotY="278.0" android:rotation="-15.0" android:translateX="-1546.3961" android:translateY="-203.5869">
+        <path android:name="gradient" android:fillColor="@drawable/$zuia_skeleton_loader_inbound__1" android:pathData="M 0 0 L 1500 0 L 1500 556 L 0 556 Z" android:strokeWidth="1.0" />
+    </group>
+</vector>

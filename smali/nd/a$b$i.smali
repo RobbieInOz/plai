@@ -1,0 +1,71 @@
+.class public Lnd/a$b$i;
+.super Ljava/lang/Object;
+.source "CallbackDispatcher.java"
+
+# interfaces
+.implements Ljava/lang/Runnable;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingMethod;
+    value = Lnd/a$b;->d(Ljd/c;IILjava/util/Map;)V
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x1
+    name = null
+.end annotation
+
+
+# instance fields
+.field public final synthetic o:Ljd/c;
+
+.field public final synthetic p:I
+
+.field public final synthetic q:I
+
+.field public final synthetic r:Ljava/util/Map;
+
+
+# direct methods
+.method public constructor <init>(Lnd/a$b;Ljd/c;IILjava/util/Map;)V
+    .locals 0
+
+    .line 1
+    iput-object p2, p0, Lnd/a$b$i;->o:Ljd/c;
+
+    iput p3, p0, Lnd/a$b$i;->p:I
+
+    iput p4, p0, Lnd/a$b$i;->q:I
+
+    iput-object p5, p0, Lnd/a$b$i;->r:Ljava/util/Map;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public run()V
+    .locals 5
+
+    .line 1
+    iget-object v0, p0, Lnd/a$b$i;->o:Ljd/c;
+
+    .line 2
+    iget-object v0, v0, Ljd/c;->D:Ljd/a;
+
+    .line 3
+    iget-object v1, p0, Lnd/a$b$i;->o:Ljd/c;
+
+    iget v2, p0, Lnd/a$b$i;->p:I
+
+    iget v3, p0, Lnd/a$b$i;->q:I
+
+    iget-object v4, p0, Lnd/a$b$i;->r:Ljava/util/Map;
+
+    invoke-interface {v0, v1, v2, v3, v4}, Ljd/a;->d(Ljd/c;IILjava/util/Map;)V
+
+    return-void
+.end method

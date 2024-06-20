@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation android:id="@id/nav_dashboard" app:startDestination="@id/homeFragment"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <action android:id="@id/action_global_to_recordingFragment" app:destination="@id/recordingFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+    <action android:id="@id/action_global_to_homeFragment" app:destination="@id/homeFragment" app:popUpTo="@id/homeFragment" app:popUpToInclusive="true" />
+    <fragment android:label="fragment_home" android:name="ai.plaud.android.plaud.anew.pages.home.HomeFragment" android:id="@id/homeFragment">
+        <action android:id="@id/action_homeFragment_to_getPremiumFragment" app:destination="@id/getPremiumFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+        <action android:id="@id/action_homeFragment_to_playAudioFragment" app:destination="@id/playAudioFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+        <action android:id="@id/action_homeFragment_to_flutterFileDetailFragment" app:destination="@id/flutterFileDetailFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+        <action android:id="@id/action_homeFragment_to_recordingFragment" app:destination="@id/recordingFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+        <action android:id="@id/action_homeFragment_to_trashFragment" app:destination="@id/trashFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+        <action android:id="@id/action_homeFragment_to_searchFragment" app:destination="@id/searchFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+        <action android:id="@id/action_homeFragment_to_addTagFragment" app:destination="@id/addTagFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+        <action android:id="@id/action_homeFragment_to_personalInformationFragment" app:destination="@id/personalInformationFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+        <action android:id="@id/action_homeFragment_to_deviceConnectionFragment" app:destination="@id/deviceConnectionFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+        <action android:id="@id/action_homeFragment_to_aboutUsFragment" app:destination="@id/aboutUsFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+        <action android:id="@id/action_homeFragment_to_transcriptionServiceFragment" app:destination="@id/transcriptionServiceFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+        <action android:id="@id/action_homeFragment_to_dataProtectionFragment" app:destination="@id/dataProtectionFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+        <action android:id="@id/action_homeFragment_to_flutterCloudSyncFragment" app:destination="@id/flutterCloudSyncFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+        <action android:id="@id/action_homeFragment_to_notificationFragment" app:destination="@id/notificationFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+        <action android:id="@id/action_homeFragment_to_myDeviceFragment" app:destination="@id/myDeviceFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+        <action android:id="@id/action_homeFragment_to_myDeviceListFragment" app:destination="@id/myDeviceListFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+        <action android:id="@id/action_homeFragment_to_webViewFragment" app:destination="@id/webViewFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+        <action android:id="@id/action_homeFragment_to_helpCenterFragment" app:destination="@id/helpCenterFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+    <fragment android:label="fragment_device_connection" android:name="ai.plaud.android.plaud.anew.pages.device.connect.DeviceConnectionFragment" android:id="@id/deviceConnectionFragment">
+        <action android:id="@id/action_deviceConnectionFragment_to_noFindDeviceFragment" app:destination="@id/noFindDeviceFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+    <fragment android:label="fragment_device_recording" android:name="ai.plaud.android.plaud.anew.pages.recording.RecordingFragment" android:id="@id/recordingFragment">
+        <action android:id="@id/action_recordingFragment_to_recorderSettingsFragment" app:destination="@id/recorderSettingsFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+        <action android:id="@id/action_recordingFragment_to_myDeviceFragment" app:destination="@id/myDeviceFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+    <fragment android:label="fragment_recorder_settings" android:name="ai.plaud.android.plaud.anew.pages.recording.setting.RecorderSettingsFragment" android:id="@id/recorderSettingsFragment" />
+    <fragment android:label="fragment_my_device_list" android:name="ai.plaud.android.plaud.anew.pages.profile.second.mydevicelist.MyDeviceListFragment" android:id="@id/myDeviceListFragment">
+        <action android:id="@id/action_myDeviceListFragment_to_myDeviceFragment" app:destination="@id/myDeviceFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+    <fragment android:label="fragment_my_device" android:name="ai.plaud.android.plaud.anew.pages.device.MyDeviceFragment" android:id="@id/myDeviceFragment">
+        <argument android:name="snNumber" android:defaultValue="" app:argType="string" />
+        <argument android:name="onlyUnBind" android:defaultValue="false" app:argType="boolean" />
+        <argument android:name="source" android:defaultValue="0" app:argType="string" />
+        <argument android:name="needUpdate" android:defaultValue="false" app:argType="boolean" />
+        <action android:id="@id/action_myDeviceFragment_to_micGainFragment" app:destination="@id/micGainFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+        <action android:id="@id/action_myDeviceFragment_to_vcsFragment" app:destination="@id/vcsFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+        <action android:id="@id/action_myDeviceFragment_to_autoPowerOffFragment" app:destination="@id/autoPowerOffFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+        <action android:id="@id/action_myDeviceFragment_to_modifyBleNameFragment" app:destination="@id/modifyBleNameFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+    <fragment android:label="fragment_device_mic_gain" android:name="ai.plaud.android.plaud.anew.pages.device.second.MicGainFragment" android:id="@id/micGainFragment" />
+    <fragment android:label="fragment_device_vcs" android:name="ai.plaud.android.plaud.anew.pages.device.second.VCSFragment" android:id="@id/vcsFragment" />
+    <fragment android:label="fragment_device_auto_poweroff" android:name="ai.plaud.android.plaud.anew.pages.device.second.AutoPowerOffFragment" android:id="@id/autoPowerOffFragment" />
+    <fragment android:label="fragment_personal_information" android:name="ai.plaud.android.plaud.anew.pages.profile.second.information.PersonalInformationFragment" android:id="@id/personalInformationFragment">
+        <action android:id="@id/action_personalInformationFragment_to_changePasswordFragment" app:destination="@id/changePasswordFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+        <action android:id="@id/action_personalInformationFragment_to_PhotoAcquisitionOptionsBottomSheetFragment" app:destination="@id/PhotoAcquisitionOptionsBottomSheetFragment" />
+        <action android:id="@id/action_personalInformationFragment_to_cancellationAccountsFragment" app:destination="@id/cancellationAccountsFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+        <action android:id="@id/action_personalInformationFragment_to_changeNameFragment" app:destination="@id/changeNameFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+    <fragment android:label="fragment_change_password" android:name="ai.plaud.android.plaud.anew.pages.profile.second.changepwd.ChangePasswordFragment" android:id="@id/changePasswordFragment" />
+    <fragment android:label="fragment_transcription_edit" android:name="ai.plaud.android.plaud.anew.pages.audiodetail.transcription.TranscriptionEditFragment" android:id="@id/transcriptionEditFragment">
+        <argument android:name="transcriptionData" app:argType="ai.plaud.android.plaud.anew.api.bean.TranscriptionData" />
+    </fragment>
+    <fragment android:label="fragment_flutter_filedetail" android:name="ai.plaud.android.plaud.anew.pages.flutter.FlutterFileDetailFragment" android:id="@id/flutterFileDetailFragment" />
+    <fragment android:label="fragment_flutter_cloudsync" android:name="ai.plaud.android.plaud.anew.pages.flutter.FlutterCloudSyncFragment" android:id="@id/flutterCloudSyncFragment" />
+    <fragment android:label="fragment_play_audio" android:name="ai.plaud.android.plaud.anew.pages.audiodetail.AudioDetailFragment" android:id="@id/playAudioFragment">
+        <action android:id="@id/action_playAudioFragment_to_flutterCloudSyncFragment" app:destination="@id/flutterCloudSyncFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+        <action android:id="@id/action_playAudioFragment_to_getPremiumFragment" app:destination="@id/getPremiumFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+        <action android:id="@id/action_playAudioFragment_to_transcriptionEditFragment" app:destination="@id/transcriptionEditFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+        <action android:id="@id/action_playAudioFragment_to_editInfoFragment" app:destination="@id/editInfoFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+        <action android:id="@id/action_playAudioFragment_to_editFileFragmentVditor" app:destination="@id/editSummaryVditorFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+        <action android:id="@id/action_playAudioFragment_to_editFileFragmentMilkdown" app:destination="@id/editSummaryMilkdownFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+        <action android:id="@id/action_playAudioFragment_to_oldEditFileFragment" app:destination="@id/oldEditFileFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+    <fragment android:label="fragment_edit_info" android:name="ai.plaud.android.plaud.anew.pages.audiodetail.edit.EditInfoFragment" android:id="@id/editInfoFragment" />
+    <fragment android:label="fragment_edit_file_vditor" android:name="ai.plaud.android.plaud.anew.pages.audiodetail.edit.EditSummaryVditorFragment" android:id="@id/editSummaryVditorFragment" />
+    <fragment android:label="fragment_edit_file_milkdown" android:name="ai.plaud.android.plaud.anew.pages.audiodetail.edit.EditSummaryMilkdownFragment" android:id="@id/editSummaryMilkdownFragment" />
+    <fragment android:label="fragment_edit_old_file" android:name="ai.plaud.android.plaud.anew.pages.audiodetail.edit.EditSummaryOldFragment" android:id="@id/oldEditFileFragment" />
+    <dialog android:name="ai.plaud.android.plaud.anew.components.TwoSquareButtonOptionsBottomSheetFragment" android:id="@id/PhotoAcquisitionOptionsBottomSheetFragment" />
+    <dialog android:name="ai.plaud.android.plaud.anew.pages.audiodetail.AudioDetailShareBottomSheetFragment" android:id="@id/AudioDetailShareBottomSheetFragment" />
+    <dialog android:name="ai.plaud.android.plaud.anew.pages.filelist.WifiConnectBottomSheetFragment" android:id="@id/WifiConnectBottomSheetFragment" />
+    <fragment android:label="fragment_about_us" android:name="ai.plaud.android.plaud.anew.pages.profile.second.AboutUsFragment" android:id="@id/aboutUsFragment">
+        <action android:id="@id/action_aboutUsFragment_to_webViewFragment" app:destination="@id/webViewFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+        <action android:id="@id/action_aboutUsFragment_to_debugModeFragment" app:destination="@id/debugModeFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+    <fragment android:label="fragment_no_find_device" android:name="ai.plaud.android.plaud.anew.pages.device.connect.NoFindDeviceFragment" android:id="@id/noFindDeviceFragment" />
+    <fragment android:label="fragment_web_view" android:name="ai.plaud.android.plaud.webview.WebViewFragment" android:id="@id/webViewFragment">
+        <argument android:name="url" app:argType="string" />
+        <argument android:name="web_title" android:defaultValue="" app:argType="string" />
+    </fragment>
+    <fragment android:label="fragment_log_center" android:name="ai.plaud.android.plaud.setup.logCenter.LogCenterFragment" android:id="@id/logCenterFragment" />
+    <fragment android:label="fragment_cancellation_accounts" android:name="ai.plaud.android.plaud.onboarding.cancellationAccounts.CancellationAccountsFragment" android:id="@id/cancellationAccountsFragment" />
+    <fragment android:label="fragment_transcription_service" android:name="ai.plaud.android.plaud.anew.pages.profile.second.TranscriptionServiceFragment" android:id="@id/transcriptionServiceFragment" />
+    <fragment android:label="fragment_notification" android:name="ai.plaud.android.plaud.anew.pages.profile.second.notification.NotificationFragment" android:id="@id/notificationFragment" />
+    <fragment android:label="fragment_debug_mode" android:name="ai.plaud.android.plaud.anew.pages.profile.second.DebugModeFragment" android:id="@id/debugModeFragment" />
+    <fragment android:label="fragment_get_premium" android:name="ai.plaud.android.plaud.anew.pages.profile.second.GetPremiumFragment" android:id="@id/getPremiumFragment">
+        <action android:id="@id/action_getPremiumFragment_to_webViewFragment" app:destination="@id/webViewFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+    <fragment android:label="fragment_data_protection" android:name="ai.plaud.android.plaud.anew.pages.profile.second.DataProtectionFragment" android:id="@id/dataProtectionFragment" />
+    <fragment android:label="fragment_change_name" android:name="ai.plaud.android.plaud.anew.pages.profile.second.information.ChangeNameFragment" android:id="@id/changeNameFragment">
+        <argument android:name="username" android:defaultValue="" app:argType="string" />
+    </fragment>
+    <fragment android:label="fragment_trash" android:name="ai.plaud.android.plaud.anew.pages.home.drawer.TrashFragment" android:id="@id/trashFragment" />
+    <fragment android:label="fragment_search" android:name="ai.plaud.android.plaud.anew.pages.home.drawer.SearchFragment" android:id="@id/searchFragment">
+        <action android:id="@id/action_searchFragment_to_recordingFragment" app:destination="@id/recordingFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+        <action android:id="@id/action_searchFragment_to_playAudioFragment" app:destination="@id/playAudioFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+    <fragment android:label="fragment_add_tag" android:name="ai.plaud.android.plaud.anew.pages.home.drawer.AddTagFragment" android:id="@id/addTagFragment">
+        <argument android:name="tagEntity" app:argType="ai.plaud.android.plaud.anew.database.tag.TagEntity" />
+    </fragment>
+    <fragment android:label="fragment_modify_ble_name" android:name="ai.plaud.android.plaud.anew.pages.device.second.modifyblename.ModifyBleNameFragment" android:id="@id/modifyBleNameFragment">
+        <argument android:name="bleName" android:defaultValue="" app:argType="string" />
+    </fragment>
+    <fragment android:label="fragment_help_center" android:name="ai.plaud.android.plaud.dashboard.helpCenter.HelpCenterFragment" android:id="@id/helpCenterFragment">
+        <action android:id="@id/action_helpCenterFragment_to_webViewFragment" app:destination="@id/webViewFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+</navigation>

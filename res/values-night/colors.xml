@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorOnBackground">@color/zuia_color_white</color>
+    <color name="colorToolbarIntermediary">@color/zuia_color_toolbar_intermediary_dark</color>
+    <color name="permissionx_default_dialog_bg">#ff3c4043</color>
+    <color name="permissionx_split_line">#ff55565a</color>
+    <color name="permissionx_text_color">#ffffffff</color>
+    <color name="permissionx_tint_color">#ff8ab6f5</color>
+    <color name="zma_color_background">#ff000000</color>
+    <color name="zma_color_danger">#ff681219</color>
+    <color name="zma_color_icon_color_default">#ff87929d</color>
+    <color name="zma_color_message_inbound_background">#ff2f3941</color>
+    <color name="zma_color_message_inbound_text">#ffffffff</color>
+    <color name="zma_color_on_background">#ffffffff</color>
+    <color name="zma_color_on_danger">#fff5d5d8</color>
+    <color name="zma_color_toolbar_intermediary">#ff2f3941</color>
+</resources>

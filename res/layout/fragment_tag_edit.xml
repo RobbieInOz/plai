@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat android:orientation="vertical" android:background="@drawable/shape_corner_10_white" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.appcompat.widget.AppCompatTextView android:textSize="18.0sp" android:textStyle="bold" android:textColor="@color/ck_1f1f1f" android:gravity="center" android:id="@id/rename" android:layout_width="fill_parent" android:layout_height="55.0dip" android:text="@string/play_Rename" />
+    <View android:background="@color/ck_e4e7ec" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <androidx.appcompat.widget.AppCompatTextView android:textSize="18.0sp" android:textStyle="bold" android:textColor="@color/ck_ff3b30" android:gravity="center" android:id="@id/delete" android:layout_width="fill_parent" android:layout_height="55.0dip" android:text="@string/play_Delete" />
+    <View android:background="@color/ck_e4e7ec" android:layout_width="fill_parent" android:layout_height="6.0dip" />
+    <androidx.appcompat.widget.AppCompatTextView android:textSize="18.0sp" android:textStyle="bold" android:textColor="@color/ck_1f1f1f" android:gravity="center" android:id="@id/cancel" android:layout_width="fill_parent" android:layout_height="55.0dip" android:text="@string/alert_Cancel" />
+</androidx.appcompat.widget.LinearLayoutCompat>

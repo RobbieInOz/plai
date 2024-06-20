@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:background="@color/ck_f9fafb" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/title_bar" android:layout_width="fill_parent" android:layout_height="52.0dip" app:layout_constraintTop_toTopOf="parent">
+        <androidx.appcompat.widget.AppCompatImageView android:id="@id/back" android:padding="18.0dip" android:layout_width="52.0dip" android:layout_height="52.0dip" android:src="@drawable/back" />
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="18.0sp" android:textStyle="bold" android:textColor="@color/ck_101828" android:gravity="center" android:id="@id/title" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/Data_Protection" android:layout_weight="1.0" />
+        <View android:layout_width="52.0dip" android:layout_height="52.0dip" />
+    </LinearLayout>
+    <ai.plaud.android.plaud.component.PlaudSwitchButton android:id="@id/data_protection" android:background="@drawable/shape_corner_8_white" android:layout_width="fill_parent" android:layout_height="50.0dip" android:layout_marginTop="22.0dip" android:layout_marginStart="20.0dip" android:layout_marginEnd="20.0dip" app:layout_constraintTop_toBottomOf="@id/title_bar" app:title="@string/Data_Protection" />
+    <androidx.appcompat.widget.AppCompatTextView android:textSize="16.0sp" android:textColor="@color/ck_101828_70" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:text="@string/After_enabling_data_protection__the_app_will_only_automatically_upload_local_audio_files_to_the_cloud_when_the_phone_is_connected_to_Wi_Fi_" android:layout_marginStart="30.0dip" android:layout_marginEnd="30.0dip" app:layout_constraintTop_toBottomOf="@id/data_protection" />
+</androidx.constraintlayout.widget.ConstraintLayout>

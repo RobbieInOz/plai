@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.lihang.ShadowLayout android:layout_width="204.0dip" android:layout_height="wrap_content" app:hl_cornerRadius="8.0dip" app:hl_layoutBackground="@color/white" app:hl_shadowColor="@color/ck_3b4a74_13" app:hl_shadowLimit="16.0dip" app:hl_shadowOffsetY="3.0dip" app:hl_strokeColor="@color/ck_e4e7ec" app:hl_strokeWith="1.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.appcompat.widget.LinearLayoutCompat android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.google.android.flexbox.FlexboxLayout android:id="@id/share" android:paddingTop="13.0dip" android:paddingBottom="13.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="12.0dip" android:paddingEnd="12.0dip" app:alignItems="center" app:justifyContent="space_between">
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="15.0sp" android:textColor="@color/black" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/play_Share" />
+            <androidx.appcompat.widget.AppCompatImageView android:layout_width="40.0dip" android:layout_height="20.0dip" android:src="@drawable/more_share" />
+        </com.google.android.flexbox.FlexboxLayout>
+        <View android:background="@color/ck_e4e7ec" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        <com.google.android.flexbox.FlexboxLayout android:id="@id/export" android:paddingTop="13.0dip" android:paddingBottom="13.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="12.0dip" android:paddingEnd="12.0dip" app:alignItems="center" app:justifyContent="space_between">
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="15.0sp" android:textColor="@color/black" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/Export" />
+            <androidx.appcompat.widget.AppCompatImageView android:layout_width="40.0dip" android:layout_height="20.0dip" android:src="@drawable/menu_export" />
+        </com.google.android.flexbox.FlexboxLayout>
+        <View android:background="@color/ck_e4e7ec" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        <com.google.android.flexbox.FlexboxLayout android:id="@id/delete" android:paddingTop="13.0dip" android:paddingBottom="13.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="12.0dip" android:paddingEnd="12.0dip" app:alignItems="center" app:justifyContent="space_between">
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="15.0sp" android:textColor="@color/ck_7c1616" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/Move_to_trash" />
+            <androidx.appcompat.widget.AppCompatImageView android:layout_width="40.0dip" android:layout_height="20.0dip" android:src="@drawable/more_delete" />
+        </com.google.android.flexbox.FlexboxLayout>
+    </androidx.appcompat.widget.LinearLayoutCompat>
+</com.lihang.ShadowLayout>

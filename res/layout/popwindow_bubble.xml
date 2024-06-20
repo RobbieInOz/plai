@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.lihang.ShadowLayout android:layout_width="fill_parent" android:layout_height="wrap_content" app:hl_cornerRadius="8.0dip" app:hl_cornerRadius_leftBottom="8.0dip" app:hl_cornerRadius_leftTop="8.0dip" app:hl_cornerRadius_rightBottom="8.0dip" app:hl_cornerRadius_rightTop="8.0dip" app:hl_shadowColor="@color/black" app:hl_shadowLimit="5.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.appcompat.widget.LinearLayoutCompat android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <RelativeLayout android:id="@id/rl_rename" android:background="@drawable/background_button_submenu" android:layout_width="fill_parent" android:layout_height="44.0dip">
+            <androidx.appcompat.widget.AppCompatImageView android:id="@id/iv_file_rename" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_file_rename" android:adjustViewBounds="true" android:layout_centerVertical="true" android:layout_marginStart="10.0dip" />
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="13.0sp" android:textColor="@color/indigo_900" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/play_Rename" android:layout_centerVertical="true" android:layout_marginStart="8.0dip" android:layout_marginEnd="10.0dip" android:layout_toEndOf="@id/iv_file_rename" />
+        </RelativeLayout>
+        <RelativeLayout android:id="@id/rl_information" android:background="@drawable/background_button_submenu" android:layout_width="fill_parent" android:layout_height="44.0dip">
+            <androidx.appcompat.widget.AppCompatImageView android:id="@id/iv_file_information" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_file_information" android:adjustViewBounds="true" android:layout_centerVertical="true" android:layout_marginStart="10.0dip" />
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="13.0sp" android:textColor="@color/indigo_900" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/play_AudioInformation" android:layout_centerVertical="true" android:layout_marginStart="8.0dip" android:layout_marginEnd="10.0dip" android:layout_toEndOf="@id/iv_file_information" />
+        </RelativeLayout>
+        <RelativeLayout android:id="@id/rl_add_tag" android:background="@drawable/background_button_submenu" android:layout_width="fill_parent" android:layout_height="44.0dip">
+            <androidx.appcompat.widget.AppCompatImageView android:id="@id/iv_file_tag" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_file_tag" android:adjustViewBounds="true" android:layout_centerVertical="true" android:layout_marginStart="10.0dip" />
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="13.0sp" android:textColor="@color/indigo_900" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/play_AddTags" android:layout_centerVertical="true" android:layout_marginStart="8.0dip" android:layout_marginEnd="10.0dip" android:layout_toEndOf="@id/iv_file_tag" />
+        </RelativeLayout>
+        <RelativeLayout android:id="@id/rl_share" android:background="@drawable/background_button_submenu" android:layout_width="fill_parent" android:layout_height="44.0dip">
+            <androidx.appcompat.widget.AppCompatImageView android:id="@id/iv_file_share" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_file_share" android:adjustViewBounds="true" android:layout_centerVertical="true" android:layout_marginStart="10.0dip" />
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="13.0sp" android:textColor="@color/indigo_900" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/play_Share" android:layout_centerVertical="true" android:layout_marginStart="8.0dip" android:layout_marginEnd="10.0dip" android:layout_toEndOf="@id/iv_file_share" />
+        </RelativeLayout>
+        <RelativeLayout android:id="@id/rl_delete" android:background="@drawable/background_button_submenu" android:layout_width="fill_parent" android:layout_height="44.0dip">
+            <androidx.appcompat.widget.AppCompatImageView android:id="@id/iv_file_delete" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_file_remove" android:adjustViewBounds="true" android:layout_centerVertical="true" android:layout_marginStart="10.0dip" />
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="13.0sp" android:textColor="@color/pink_300" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/play_Delete" android:layout_centerVertical="true" android:layout_marginStart="8.0dip" android:layout_marginEnd="10.0dip" android:layout_toEndOf="@id/iv_file_delete" />
+        </RelativeLayout>
+    </androidx.appcompat.widget.LinearLayoutCompat>
+</com.lihang.ShadowLayout>

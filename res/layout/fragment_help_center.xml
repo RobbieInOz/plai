@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:background="@color/ck_f2f4f7" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.appcompat.widget.AppCompatImageView android:id="@id/bg_layout" android:layout_width="fill_parent" android:layout_height="317.0dip" android:src="@drawable/helpcenter_bg" app:layout_constraintTop_toTopOf="parent" />
+    <View android:id="@id/status_bar" android:layout_width="fill_parent" android:layout_height="1.0dip" app:layout_constraintTop_toTopOf="parent" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/title_bar" android:layout_width="fill_parent" android:layout_height="52.0dip" app:layout_constraintTop_toBottomOf="@id/status_bar">
+        <androidx.appcompat.widget.AppCompatImageView android:id="@id/back" android:padding="15.0dip" android:layout_width="52.0dip" android:layout_height="52.0dip" android:src="@drawable/back_black" />
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="18.0sp" android:textStyle="bold" android:textColor="@color/ck_1f1f1f" android:gravity="center" android:id="@id/title" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/Help_Center" android:layout_weight="1.0" />
+        <View android:layout_width="52.0dip" android:layout_height="52.0dip" />
+    </LinearLayout>
+    <androidx.appcompat.widget.AppCompatImageView android:id="@id/helper_icon" android:layout_width="52.0dip" android:layout_height="66.0dip" android:src="@drawable/helpcenter_icon" android:layout_marginEnd="24.0dip" app:layout_constraintBottom_toTopOf="@id/customer_layout" app:layout_constraintEnd_toEndOf="@id/customer_layout" />
+    <androidx.appcompat.widget.LinearLayoutCompat android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/customer_layout" android:background="@drawable/shape_corner_8_white" android:layout_width="fill_parent" android:layout_height="74.0dip" android:layout_marginTop="70.0dip" android:layout_marginStart="20.0dip" android:layout_marginEnd="20.0dip" app:layout_constraintTop_toBottomOf="@id/title_bar">
+        <androidx.appcompat.widget.AppCompatImageView android:layout_width="21.0dip" android:layout_height="19.0dip" android:src="@drawable/customer" android:layout_marginStart="16.0dip" />
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="18.0sp" android:textColor="@color/ck_1f1f1f" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/mine_OnlineService" android:layout_weight="1.0" android:layout_marginStart="12.0dip" />
+        <androidx.appcompat.widget.AppCompatImageView android:layout_width="20.0dip" android:layout_height="20.0dip" android:src="@drawable/arrow_right" android:layout_marginEnd="6.0dip" />
+    </androidx.appcompat.widget.LinearLayoutCompat>
+    <androidx.appcompat.widget.LinearLayoutCompat android:orientation="vertical" android:id="@id/container1" android:background="@drawable/shape_corner_8_white" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginStart="20.0dip" android:layout_marginEnd="20.0dip" app:layout_constraintTop_toBottomOf="@id/customer_layout">
+        <androidx.appcompat.widget.LinearLayoutCompat android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/how_bind" android:layout_width="fill_parent" android:layout_height="50.0dip" android:paddingStart="16.0dip">
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="16.0sp" android:textColor="@color/ck_1f1f1f_90" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/How_to_bind_the_recorder" android:layout_weight="1.0" />
+            <androidx.appcompat.widget.AppCompatImageView android:layout_width="20.0dip" android:layout_height="20.0dip" android:src="@drawable/arrow_right" android:layout_marginEnd="5.0dip" />
+        </androidx.appcompat.widget.LinearLayoutCompat>
+        <View android:background="@color/ck_e4e7ec_70" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginStart="16.0dip" android:layout_marginEnd="11.0dip" />
+        <androidx.appcompat.widget.LinearLayoutCompat android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/how_start" android:layout_width="fill_parent" android:layout_height="50.0dip" android:paddingStart="16.0dip">
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="16.0sp" android:textColor="@color/ck_1f1f1f_90" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/How_to_start_recording" android:layout_weight="1.0" />
+            <androidx.appcompat.widget.AppCompatImageView android:layout_width="20.0dip" android:layout_height="20.0dip" android:src="@drawable/arrow_right" android:layout_marginEnd="5.0dip" />
+        </androidx.appcompat.widget.LinearLayoutCompat>
+        <View android:background="@color/ck_e4e7ec_70" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginStart="16.0dip" android:layout_marginEnd="11.0dip" />
+        <androidx.appcompat.widget.LinearLayoutCompat android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/how_transcription" android:layout_width="fill_parent" android:layout_height="50.0dip" android:paddingStart="16.0dip">
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="16.0sp" android:textColor="@color/ck_1f1f1f_90" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/How_to_get_trancription" android:layout_weight="1.0" />
+            <androidx.appcompat.widget.AppCompatImageView android:layout_width="20.0dip" android:layout_height="20.0dip" android:src="@drawable/arrow_right" android:layout_marginEnd="5.0dip" />
+        </androidx.appcompat.widget.LinearLayoutCompat>
+        <View android:background="@color/ck_e4e7ec_70" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginStart="16.0dip" android:layout_marginEnd="11.0dip" />
+        <androidx.appcompat.widget.LinearLayoutCompat android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/how_summary" android:layout_width="fill_parent" android:layout_height="50.0dip" android:paddingStart="16.0dip">
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="16.0sp" android:textColor="@color/ck_1f1f1f_90" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/How_to_get_summary" android:layout_weight="1.0" />
+            <androidx.appcompat.widget.AppCompatImageView android:layout_width="20.0dip" android:layout_height="20.0dip" android:src="@drawable/arrow_right" android:layout_marginEnd="5.0dip" />
+        </androidx.appcompat.widget.LinearLayoutCompat>
+    </androidx.appcompat.widget.LinearLayoutCompat>
+    <androidx.appcompat.widget.LinearLayoutCompat android:orientation="vertical" android:background="@drawable/shape_corner_8_white" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="22.0dip" android:layout_marginStart="20.0dip" android:layout_marginEnd="20.0dip" app:layout_constraintTop_toBottomOf="@id/container1">
+        <androidx.appcompat.widget.LinearLayoutCompat android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/faq" android:layout_width="fill_parent" android:layout_height="50.0dip" android:paddingStart="16.0dip">
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="16.0sp" android:textColor="@color/ck_1f1f1f_90" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/helpCenter_FrequentlyAskedQuestions" android:layout_weight="1.0" />
+            <androidx.appcompat.widget.AppCompatImageView android:layout_width="20.0dip" android:layout_height="20.0dip" android:src="@drawable/arrow_right" android:layout_marginEnd="5.0dip" />
+        </androidx.appcompat.widget.LinearLayoutCompat>
+        <View android:background="@color/ck_e4e7ec_70" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginStart="16.0dip" android:layout_marginEnd="11.0dip" />
+        <androidx.appcompat.widget.LinearLayoutCompat android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/questions" android:layout_width="fill_parent" android:layout_height="50.0dip" android:paddingStart="16.0dip">
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="16.0sp" android:textColor="@color/ck_1f1f1f_90" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/Questions_by_Topic" android:layout_weight="1.0" />
+            <androidx.appcompat.widget.AppCompatImageView android:layout_width="20.0dip" android:layout_height="20.0dip" android:src="@drawable/arrow_right" android:layout_marginEnd="5.0dip" />
+        </androidx.appcompat.widget.LinearLayoutCompat>
+    </androidx.appcompat.widget.LinearLayoutCompat>
+</androidx.constraintlayout.widget.ConstraintLayout>

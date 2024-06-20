@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <size />
+    <stroke android:width="?quickReplyOptionStrokeWidth" android:color="?quickReplyOptionStrokeColor" />
+    <corners android:radius="?quickReplyOptionRadius" />
+    <solid android:color="@color/zuia_color_transparent" />
+</shape>

@@ -1,0 +1,86 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <title>demo</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-sacle=1, maximum-scale=1">
+    <style>
+		html,body{height:100vh;width:100vw;padding:0px;margin:0px;overflow:hidden;}
+				.editorBox{
+					height:100vh;
+					min-height: 300px;
+					width:100vw;
+					margin:0px;
+					padding:0px;
+					box-sizing: border-box;
+					overflow:hidden;
+				}
+				#myframe{
+						height: 100%;
+						width:100%;
+						border:none;
+				}
+    </style>
+</head>
+
+<body>
+<div class="editorBox">
+    <iframe src="./myeditor.html" id="myframe" frameborder="0"></iframe>
+</div>
+</body>
+
+<script type="text/javascript">
+	var editorDom = document.getElementById('myframe').contentWindow;
+	// myeditor = {
+	//     changeEdit: //true编辑，false预览，默认false,
+	//     getContent://获取内容,
+	//     setContent://设置内容,
+	//     appendContent://追加内容
+	//     exportTxt://下载txt
+	// }
+	document.getElementById('myframe').onload = function () {
+		editorDom.myeditor.changeEdit(true)
+	}
+
+	// 调用APP方法
+	window.addEventListener('message', (e) => {
+		let data = e.data;
+		console.log(data.type); //class,call,meeting,summary,interview,done
+		document.location = `js://${data.type}`;
+	});
+
+	// 设置预览模式
+	function setPreviewMode() {
+		editorDom.myeditor.changeEdit(false)
+	}
+
+	// 获取内容
+	function getContent() {
+		return editorDom.myeditor.getContent()
+	}
+
+	// 追加内容
+	function appendContent(content) {
+		editorDom.myeditor.appendContent(content)
+	}
+
+	// 设置内容
+	function setContent(content) {
+		editorDom.myeditor.setContent(content.data)
+	}
+
+	// 设置 ai 按钮
+	function disableAiMenu() {
+		editorDom.myeditor.setAiMenu(false)
+	}
+
+	// 设置 ai 按钮
+	function enableAiMenu() {
+		editorDom.myeditor.setAiMenu(true)
+	}
+
+</script>
+
+</html>

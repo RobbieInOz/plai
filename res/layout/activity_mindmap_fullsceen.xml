@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.lihang.ShadowLayout android:id="@id/web_view_container" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="20.0dip" android:layout_marginBottom="20.0dip" android:layout_marginStart="34.0dip" android:layout_marginEnd="34.0dip" app:hl_cornerRadius="8.0dip" app:hl_shadowHidden="true" app:layout_constraintTop_toTopOf="parent">
+        <WebView android:id="@id/web_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </com.lihang.ShadowLayout>
+    <androidx.appcompat.widget.AppCompatImageButton android:id="@id/scale_min" android:background="?android:selectableItemBackgroundBorderless" android:layout_width="24.0dip" android:layout_height="24.0dip" android:layout_marginTop="6.0dip" android:src="@drawable/scale_min" android:scaleType="fitCenter" android:layout_marginEnd="6.0dip" app:layout_constraintEnd_toEndOf="@id/web_view_container" app:layout_constraintTop_toTopOf="@id/web_view_container" />
+</androidx.constraintlayout.widget.ConstraintLayout>

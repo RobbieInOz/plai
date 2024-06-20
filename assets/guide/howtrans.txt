@@ -1,0 +1,26 @@
+00:00:00,000 --> 00:00:02,260
+How to Transcribe with PLAUD
+00:00:02,260 --> 00:00:08,700
+Welcome to this informative guide on how to harness the power of PLAUD Note’s transcription feature.
+00:00:08,700 --> 00:00:15,000
+With our cutting-edge AI technology, transcribing your audio files has never been easier.
+00:00:15,000 --> 00:00:17,200
+Here’s how to do it with precision.
+00:00:17,200 --> 00:00:22,100
+One, Connect your device to the PLAUD app to sync your audio file.
+00:00:22,100 --> 00:00:27,500
+Two, Select the audio files you want to transcribe directly within the app.
+00:00:27,500 --> 00:00:36,400
+Three, Tap Transcribe and confirm to start the AI transcription, which typically takes a fraction of your audio file’s length.
+00:00:36,400 --> 00:00:41,500
+Four, Open the transcript and make any necessary edits or corrections.
+00:00:41,500 --> 00:00:48,300
+Five, Export the finalized transcript as a text file or effortlessly share it with your colleagues.
+00:00:48,300 --> 00:00:52,500
+Let PLAUD’s advanced AI do the heavy lifting of transcription.
+00:00:52,500 --> 00:01:00,300
+While you focus on more important tasks, say goodbye to manual busywork and embrace productivity like never before.
+00:01:00,300 --> 00:01:03,400
+Ready to save time and enhance your workflow?
+00:01:03,400 --> 00:01:06,100
+Get started with PLAUD Note today.

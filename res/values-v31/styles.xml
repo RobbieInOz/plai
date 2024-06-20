@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BlueButton" parent="@style/Button">
+        <item name="backgroundTint">@color/blue_a400</item>
+        <item name="cornerRadius">2.0dip</item>
+        <item name="textAllCaps">false</item>
+    </style>
+    <style name="Theme.SplashScreen" parent="@style/Base.Theme.SplashScreen.DayNight">
+        <item name="android:windowSplashScreenBackground">?windowSplashScreenBackground</item>
+        <item name="android:windowSplashScreenAnimatedIcon">?windowSplashScreenAnimatedIcon</item>
+        <item name="android:windowSplashScreenAnimationDuration">?windowSplashScreenAnimationDuration</item>
+    </style>
+    <style name="Theme.SplashScreen.IconBackground" parent="@style/Theme.SplashScreen">
+        <item name="android:windowSplashScreenIconBackgroundColor">?windowSplashScreenIconBackgroundColor</item>
+    </style>
+</resources>

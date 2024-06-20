@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <zendesk.ui.android.conversation.header.ConversationHeaderView android:id="@id/zma_conversation_header_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true" />
+    <zendesk.ui.android.common.connectionbanner.ConnectionBannerView android:id="@id/zma_connection_banner_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/zma_conversation_header_view" />
+    <zendesk.messaging.android.internal.conversationscreen.messagelog.MessageLogView android:id="@id/zma_message_list" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_above="@id/zma_message_composer_view" android:layout_below="@id/zma_conversation_header_view" />
+    <zendesk.ui.android.conversation.composer.MessageComposerView android:id="@id/zma_message_composer_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" />
+</merge>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation android:id="@id/nav_landing" app:startDestination="@id/loginFragment"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <action android:id="@id/action_global_to_dashboardActivity" app:destination="@id/dashboardActivity" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+    <fragment android:label="fragment_guide" android:name="ai.plaud.android.plaud.landing.guide.GuideFragment" android:id="@id/guideFragment">
+        <action android:id="@id/action_guideFragment_to_loginFragment" app:destination="@id/loginFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+    <fragment android:label="fragment_login" android:name="ai.plaud.android.plaud.anew.pages.login.LoginFragment" android:id="@id/loginFragment">
+        <action android:id="@id/action_loginFragment_to_registerFragment" app:destination="@id/registerFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+        <action android:id="@id/action_loginFragment_to_forgetPasswordFragment" app:destination="@id/forgetPasswordFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+        <action android:id="@id/action_loginFragment_to_webViewFragment" app:destination="@id/webViewFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+    <fragment android:label="fragment_register" android:name="ai.plaud.android.plaud.anew.pages.register.RegisterFragment" android:id="@id/registerFragment">
+        <action android:id="@id/action_registerFragment_to_webViewFragment" app:destination="@id/webViewFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+    <fragment android:label="fragment_forget_password" android:name="ai.plaud.android.plaud.anew.pages.forgotpwd.ForgetPasswordFragment" android:id="@id/forgetPasswordFragment">
+        <action android:id="@id/action_forgetPasswordFragment_to_forgetPasswordSuccessFragment" app:destination="@id/forgetPasswordSuccessFragment" app:enterAnim="@anim/slide_in_right" app:exitAnim="@anim/slide_out_left" app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+    <activity android:label="activity_dashboard" android:name="ai.plaud.android.plaud.dashboard.DashboardActivity" android:id="@id/dashboardActivity" />
+    <fragment android:label="fragment_forget_password_success" android:name="ai.plaud.android.plaud.anew.pages.forgotpwd.ForgetPasswordSuccessFragment" android:id="@id/forgetPasswordSuccessFragment" />
+    <fragment android:label="fragment_web_view" android:name="ai.plaud.android.plaud.webview.WebViewFragment" android:id="@id/webViewFragment">
+        <argument android:name="url" app:argType="string" />
+        <argument android:name="web_title" android:defaultValue="" app:argType="string" />
+    </fragment>
+</navigation>

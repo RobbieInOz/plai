@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <fragment android:name="androidx.navigation.fragment.NavHostFragment" android:id="@id/navgraphdashboard" android:layout_width="fill_parent" android:layout_height="0.0dip" app:defaultNavHost="true" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" app:navGraph="@navigation/nav_dashboard" />
+    <com.lihang.ShadowLayout android:id="@id/loadingOverlay" android:visibility="gone" android:layout_width="100.0dip" android:layout_height="100.0dip" app:hl_cornerRadius="12.0dip" app:hl_layoutBackground="@color/ck_1f1f1f_70" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <com.airbnb.lottie.LottieAnimationView android:layout_width="fill_parent" android:layout_height="fill_parent" app:lottie_autoPlay="true" app:lottie_fileName="lotties/loading.json" app:lottie_loop="true" />
+    </com.lihang.ShadowLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

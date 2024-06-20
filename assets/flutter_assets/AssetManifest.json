@@ -1,0 +1,9 @@
+{
+  "assets/images/arrow_right.png": ["assets/images/arrow_right.png"],
+  "assets/images/back.png": ["assets/images/back.png"],
+  "assets/images/plaud_cloud_icon.png": ["assets/images/plaud_cloud_icon.png"],
+  "assets/lotties/loading.json": ["assets/lotties/loading.json"],
+  "packages/cupertino_icons/assets/CupertinoIcons.ttf": [
+    "packages/cupertino_icons/assets/CupertinoIcons.ttf"
+  ]
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/title_bar" android:background="@drawable/shape_corner_8_white" android:layout_width="wrap_content" android:layout_height="52.0dip" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <androidx.constraintlayout.widget.ConstraintLayout android:id="@id/device_btn" android:layout_width="52.0dip" android:layout_height="52.0dip">
+            <androidx.appcompat.widget.AppCompatImageView android:id="@id/device_image" android:padding="13.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/title_device_add" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="12.0sp" android:textStyle="bold" android:textColor="@color/ck_1f1f1f" android:gravity="center_vertical" android:id="@id/text" android:layout_width="wrap_content" android:layout_height="52.0dip" android:minWidth="52.0dip" android:text="Connect" android:paddingEnd="16.0dip" android:layout_marginStart="-10.0dip" />
+    </LinearLayout>
+    <androidx.appcompat.widget.AppCompatImageView android:id="@id/hand" android:layout_width="60.0dip" android:layout_height="60.0dip" android:layout_marginTop="24.0dip" android:src="@drawable/guide_hande_click" android:layout_marginEnd="-28.0dip" app:layout_constraintEnd_toEndOf="@id/title_bar" app:layout_constraintTop_toTopOf="@id/title_bar" />
+    <androidx.appcompat.widget.AppCompatImageView android:layout_width="0.0dip" android:layout_height="0.0dip" android:src="@drawable/guide_step2_bg" android:scaleType="fitXY" app:layout_constraintBottom_toBottomOf="@id/text_container" app:layout_constraintEnd_toEndOf="@id/text_container" app:layout_constraintStart_toStartOf="@id/text_container" app:layout_constraintTop_toTopOf="@id/text_container" />
+    <androidx.appcompat.widget.LinearLayoutCompat android:orientation="vertical" android:id="@id/text_container" android:paddingTop="25.0dip" android:paddingBottom="25.0dip" android:layout_width="254.0dip" android:layout_height="wrap_content" android:layout_marginTop="-8.0dip" android:paddingStart="20.0dip" android:paddingEnd="20.0dip" android:layout_marginStart="16.0dip" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/hand">
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="18.0sp" android:textStyle="bold" android:textColor="@color/ck_1f1f1f" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/Step_2" />
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="14.0sp" android:textColor="@color/ck_101828_70" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:text="@string/Guide_Step2_Tip" />
+    </androidx.appcompat.widget.LinearLayoutCompat>
+    <View android:id="@id/mask" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

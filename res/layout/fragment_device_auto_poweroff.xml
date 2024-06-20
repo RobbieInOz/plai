@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/ck_f9fafb" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/title_bar" android:layout_width="fill_parent" android:layout_height="52.0dip" app:layout_constraintTop_toTopOf="parent">
+        <androidx.appcompat.widget.AppCompatImageView android:id="@id/back" android:padding="18.0dip" android:layout_width="52.0dip" android:layout_height="52.0dip" android:src="@drawable/back" />
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="18.0sp" android:textStyle="bold" android:textColor="@color/ck_101828" android:gravity="center" android:id="@id/title" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/Scheduled_Shutdown" android:layout_weight="1.0" />
+        <View android:layout_width="52.0dip" android:layout_height="52.0dip" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:background="@drawable/shape_corner_8_white" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_marginStart="16.0dip" android:layout_marginEnd="16.0dip">
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/off_layout" android:layout_width="fill_parent" android:layout_height="52.0dip" android:paddingStart="20.0dip" android:paddingEnd="22.0dip">
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="14.0sp" android:textStyle="bold" android:textColor="@color/ck_1f1f1f" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/Never" android:layout_weight="1.0" />
+            <androidx.appcompat.widget.AppCompatImageView android:id="@id/off_choosed" android:visibility="gone" android:layout_width="21.0dip" android:layout_height="21.0dip" android:src="@drawable/button_right_black" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/shutdown_layout" android:layout_width="fill_parent" android:layout_height="52.0dip" android:paddingStart="20.0dip" android:paddingEnd="22.0dip">
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="14.0sp" android:textStyle="bold" android:textColor="@color/ck_1f1f1f" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/Shut_down_now" android:layout_weight="1.0" />
+            <androidx.appcompat.widget.AppCompatImageView android:id="@id/shutdown_choosed" android:visibility="gone" android:layout_width="21.0dip" android:layout_height="21.0dip" android:src="@drawable/button_right_black" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/min_15_layout" android:layout_width="fill_parent" android:layout_height="52.0dip" android:paddingStart="20.0dip" android:paddingEnd="22.0dip">
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="14.0sp" android:textStyle="bold" android:textColor="@color/ck_1f1f1f" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/plaud_15_minutes" android:layout_weight="1.0" />
+            <androidx.appcompat.widget.AppCompatImageView android:id="@id/min_15_choosed" android:visibility="gone" android:layout_width="21.0dip" android:layout_height="21.0dip" android:src="@drawable/button_right_black" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/min_30_layout" android:layout_width="fill_parent" android:layout_height="52.0dip" android:paddingStart="20.0dip" android:paddingEnd="22.0dip">
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="14.0sp" android:textStyle="bold" android:textColor="@color/ck_1f1f1f" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/plaud_30_minutes" android:layout_weight="1.0" />
+            <androidx.appcompat.widget.AppCompatImageView android:id="@id/min_30_choosed" android:visibility="gone" android:layout_width="21.0dip" android:layout_height="21.0dip" android:src="@drawable/button_right_black" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/hour_1_layout" android:layout_width="fill_parent" android:layout_height="52.0dip" android:paddingStart="20.0dip" android:paddingEnd="22.0dip">
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="14.0sp" android:textStyle="bold" android:textColor="@color/ck_1f1f1f" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/plaud_1_hour" android:layout_weight="1.0" />
+            <androidx.appcompat.widget.AppCompatImageView android:id="@id/hour_1_choosed" android:visibility="gone" android:layout_width="21.0dip" android:layout_height="21.0dip" android:src="@drawable/button_right_black" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/hour_5_layout" android:layout_width="fill_parent" android:layout_height="52.0dip" android:paddingStart="20.0dip" android:paddingEnd="22.0dip">
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="14.0sp" android:textStyle="bold" android:textColor="@color/ck_1f1f1f" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/plaud_5_hours" android:layout_weight="1.0" />
+            <androidx.appcompat.widget.AppCompatImageView android:id="@id/hour_5_choosed" android:visibility="gone" android:layout_width="21.0dip" android:layout_height="21.0dip" android:src="@drawable/button_right_black" />
+        </LinearLayout>
+    </LinearLayout>
+    <androidx.appcompat.widget.AppCompatTextView android:textSize="16.0sp" android:textColor="@color/ck_101828_70" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="24.0dip" android:text="@string/How_long_would_you_like_the_device_to_be_idle_before_it_automatically_shuts_down_" android:layout_marginStart="16.0dip" android:layout_marginEnd="16.0dip" android:lineHeight="24.0sp" />
+</LinearLayout>

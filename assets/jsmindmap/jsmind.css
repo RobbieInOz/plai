@@ -1,0 +1,23 @@
+jmnode{
+  font-size: 16px;
+  background-color: #FCFCFD;
+  color:#1D2939;
+  box-shadow:none!important;
+  word-wrap: break-word!important;
+}
+jmnode.root {
+  background-color: #344054;
+  color:#fff;
+  font-size: 18px;
+  max-width: 340px;
+}
+jmnode.selected {
+  background-color: #000;
+  box-shadow: none!important;
+}
+jmexpander{
+	width:15px;
+	height:15px;
+	border-radius: 50%;
+	font-size: 16px;
+}
